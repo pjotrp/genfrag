@@ -1,4 +1,6 @@
-
+# The genfrag index spec first checks the expected input parameters, next
+# compares a test input with different parameters.
+#
 require File.expand_path(
     File.join(File.dirname(__FILE__), %w[.. .. spec_helper]))
     

@@ -1,4 +1,6 @@
-# Equivalent to a header guard in C/C++
+# Runs the test mocking framework
+
+# The following is an equivalent to a header guard in C/C++
 # Used to prevent the spec helper from being loaded more than once
 unless defined? GENFRAG_SPEC_HELPER
 GENFRAG_SPEC_HELPER = true

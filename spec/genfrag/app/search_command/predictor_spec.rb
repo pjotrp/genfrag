@@ -1,4 +1,5 @@
-
+# The predictor spec gives likelihoods for fragments based on sequence composition
+#
 require File.expand_path(
     File.join(File.dirname(__FILE__), %w[.. .. .. spec_helper]))
     

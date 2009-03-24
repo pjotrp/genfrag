@@ -1,3 +1,5 @@
+# This Spec tells what input files genfrag expects and what is does
+# to mangle these names.
 
 require File.join(File.dirname(__FILE__), %w[spec_helper])
 

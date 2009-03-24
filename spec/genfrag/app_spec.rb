@@ -1,4 +1,6 @@
-
+# The application spec tells genfrag application expects an index or search command
+# and respond to standard flags like --help.
+#
 require File.expand_path(
     File.join(File.dirname(__FILE__), %w[.. spec_helper]))
 

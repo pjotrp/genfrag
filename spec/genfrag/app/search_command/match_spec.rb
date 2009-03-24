@@ -1,4 +1,5 @@
-
+# The match spec tests restriction enzyme definitions
+#
 require File.expand_path(
     File.join(File.dirname(__FILE__), %w[.. .. .. spec_helper]))
     
