@@ -11,7 +11,10 @@ class SearchCommand < Command
     processed_adapters=nil
     
     validate_options(options)
-    
+
+    require 'rubygems'
+    require 'unprof'
+
     if options[:sqlite]
       processed_fasta_file  = SearchCommand::ProcessFile.process_db_fasta_file( SQLite3::Database.new( Genfrag.name_normalized_fasta(input_filenames,options[:filefasta]) + '.db' ) )
       processed_freq_lookup = SearchCommand::ProcessFile.process_db_freq_lookup( SQLite3::Database.new( Genfrag.name_freq_lookup(input_filenames,options[:filefasta],options[:filelookup],options[:re5],options[:re3]) + '.db' ) )
