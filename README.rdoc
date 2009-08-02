@@ -2,6 +2,7 @@ Genfrag version 0.0.0.2
     by Pjotr Prins and Trevor Wennblom
     http://genfrag.rubyforge.org
     http://rubyforge.org/projects/genfrag/
+    http://github.com/trevor/genfrag/
 
 
 == DESCRIPTION:
@@ -24,7 +25,11 @@ This works
 
 == REQUIREMENTS:
 
-* bioruby
+* bio
+
+
+=== Optional
+
 * sqlite3-ruby
 
 
