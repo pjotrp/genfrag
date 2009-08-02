@@ -78,7 +78,7 @@ class App
 
   Examples:
     genfrag index -f example.fasta --RE5 BstYI --RE3 MseI
-    genfrag search -f example.fasta --RE5 BstYI --RE3 MseI --adapter5 ct
+    genfrag search -f example.fasta --RE5 BstYI --RE3 MseI --adapter3 aacc --adapter5 tt
 
   Commands:
     genfrag index           initialize the index
