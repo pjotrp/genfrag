@@ -12,7 +12,6 @@ class SearchCommand < Command
     
     validate_options(options)
     
-    
     if options[:sqlite]
       processed_fasta_file  = SearchCommand::ProcessFile.process_db_fasta_file( SQLite3::Database.new( Genfrag.name_normalized_fasta(input_filenames,options[:filefasta]) + '.db' ) )
       processed_freq_lookup = SearchCommand::ProcessFile.process_db_freq_lookup( SQLite3::Database.new( Genfrag.name_freq_lookup(input_filenames,options[:filefasta],options[:filelookup],options[:re5],options[:re3]) + '.db' ) )
@@ -21,12 +20,18 @@ class SearchCommand < Command
       processed_freq_lookup = SearchCommand::ProcessFile.process_tdf_freq_lookup( IO.readlines( Genfrag.name_freq_lookup(input_filenames,options[:filefasta],options[:filelookup],options[:re5],options[:re3]) + '.tdf' ) )
     end
     
-      if options[:fileadapters]
+    if options[:fileadapters]
       processed_adapters = SearchCommand::ProcessFile.process_tdf_adapters( IO.readlines( Genfrag.name_adapters(options[:fileadapters]) + '.tdf' ), options[:named_adapter5], options[:named_adapter3] )
     end
     
-    run(options, processed_fasta_file, processed_freq_lookup, processed_adapters, true)
-  end
+    if options[:tracktime]
+      Genfrag.tracktime {
+        run(options, processed_fasta_file, processed_freq_lookup, processed_adapters, true)
+      }
+    else
+        run(options, processed_fasta_file, processed_freq_lookup, processed_adapters, true)
+    end
+   end
 
   def opt_parser
     std_opts = standard_options
