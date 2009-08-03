@@ -10,8 +10,13 @@ require 'ostruct'
 require 'csv'
 
 require 'bio'
+
 #autoload :SQLite3, 'sqlite3' # => no such file to load -- sqlite3 (LoadError)
-require 'sqlite3'
+begin
+  require 'sqlite3'
+rescue LoadError
+  $stderr.print "Warning: sqlite not installed"
+end
 
 module Genfrag
 class App
