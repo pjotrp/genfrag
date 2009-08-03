@@ -14,4 +14,7 @@ result = RubyProf.stop
 printer = RubyProf::FlatPrinter.new(result)
 printer.print(STDOUT, 0)
 
+printer = RubyProf::GraphHtmlPrinter.new(result)
+printer.print(File.new('profiler.html','w'), :min_percent=>2)
+
 # EOF
