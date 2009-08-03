@@ -1,8 +1,17 @@
 #!/usr/bin/env ruby
 
+require 'rubygems'
+require 'ruby-prof'
+RubyProf.start
+
 require File.expand_path(
     File.join(File.dirname(__FILE__), %w[.. lib genfrag]))
 
 Genfrag::App.cli_run ARGV
+
+RubyProf.stop
+# Print a flat profile to text
+printer = RubyProf::FlatPrinter.new(result)
+printer.print(STDOUT, 0)
 
 # EOF
