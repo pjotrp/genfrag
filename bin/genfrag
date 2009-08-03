@@ -9,7 +9,7 @@ require File.expand_path(
 
 Genfrag::App.cli_run ARGV
 
-RubyProf.stop
+result = RubyProf.stop
 # Print a flat profile to text
 printer = RubyProf::FlatPrinter.new(result)
 printer.print(STDOUT, 0)
