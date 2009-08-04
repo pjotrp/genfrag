@@ -1,20 +1,25 @@
 #!/usr/bin/env ruby
 
-require 'rubygems'
-require 'ruby-prof'
-RubyProf.start
+PROFILER=false
+
+if PROFILER
+  require 'rubygems'
+  require 'ruby-prof'
+  RubyProf.start
+end
 
 require File.expand_path(
     File.join(File.dirname(__FILE__), %w[.. lib genfrag]))
 
 Genfrag::App.cli_run ARGV
 
-result = RubyProf.stop
-# Print a flat profile to text
-printer = RubyProf::FlatPrinter.new(result)
-printer.print(STDOUT, 0)
+if PROFILER
+				result = RubyProf.stop
+				# Print a flat profile to text
+				printer = RubyProf::FlatPrinter.new(result)
+				printer.print(STDOUT, 0)
 
-printer = RubyProf::GraphHtmlPrinter.new(result)
-printer.print(File.new('profiler.html','w'), :min_percent=>2)
-
+				printer = RubyProf::GraphHtmlPrinter.new(result)
+				printer.print(File.new('profiler.html','w'), :min_percent=>2)
+end
 # EOF
