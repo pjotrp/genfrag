@@ -32,17 +32,29 @@ This works
 
 * sqlite3-ruby
 
-
 == INSTALL:
 
-* sudo gem install genfrag
+* gem install sqlite3
 
+* gem install genfrag
+
+You may first need to install sqlite3 header files, e.g. on Debian/Ubuntu
+
+* apt-get install libsqlite3-dev
 
 == EXAMPLES:
 
 === Index command
 
+See
+
+* genfrag index --help
+
 === Search command
+
+See 
+
+* genfrag search --help
 
 ==== Example 1
 
