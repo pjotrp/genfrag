@@ -220,6 +220,7 @@ END
     @sizes.values.each do |hit|
       hit.each do |entry|
         seq = @sequences[entry[:fasta_id]][:sequence]
+         # FIXME Ruby 1.9 balks here: next if seq == nil
         raw_frag = seq[entry[:offset]..(entry[:offset]+entry[:raw_size]-1)]
 
         primary_frag, complement_frag = trim_sequences(raw_frag, Bio::Sequence::NA.new(raw_frag).forward_complement, left_trim, right_trim, @trim)

@@ -2,6 +2,14 @@
 # configured in this Rakefile. The .rake files in the tasks directory
 # are where the options are used.
 
+RUBY="1.8.7" if not defined?(RUBY)
+
+begin
+  gem 'bones', '=2.5.1'
+rescue Gem::LoadError
+  raise 'The gem: bones v2.5.1 is needed for development'
+end
+
 begin
   require 'bones'
   Bones.setup
@@ -17,7 +25,7 @@ ensure_in_path 'lib'
 require 'genfrag'
 
 #task :default => 'spec:specdoc'
-task :default => 'spec:run'
+task :default => 'spec'
 
 PROJ.name = 'genfrag'
 PROJ.authors = 'Pjotr Prins and Trevor Wennblom'

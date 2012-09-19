@@ -26,8 +26,8 @@ This works
 
 == REQUIREMENTS:
 
+* Ruby 1.8 (important, do not use 1.9 just now)
 * bio
-
 
 === Optional
 
@@ -351,9 +351,19 @@ you are expecting, you may give a range by using a plus symbol ('+') to indicate
   require 'bio'
   puts Bio::Sequence::NA.new('y').to_re   # => (?-mix:[tcy])
 
+== Troubleshooting
+
+When you have issues with genfrag, download the latest from https://github.com/pjotrp/genfrag
+and run in the root dir:
+  ruby -v
+  bundle
+  rspec
+  rake
+
+And report problems using the issue tracker on github.
 
 == LICENSE:
 
-Copyright (c) 2009 Pjotr Prins and Trevor Wennblom
+Copyright (c) 2009-2012 Pjotr Prins and Trevor Wennblom
 
 Distributed under the same terms as the Ruby License - see LICENSE.txt
