@@ -92,7 +92,12 @@ describe Genfrag do
       end
     end
   end
-  
+ 
+  after :all do 
+    print `mv -v test/data/test.fa.tdf test/data/regression`
+    print `mv -v testxdataxtest.fa_bstyi_msei_index.tdf test/data/regression`
+    print `rm -v *.tdf`
+  end
 end
 
 # EOF
