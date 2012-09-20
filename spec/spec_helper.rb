@@ -5,6 +5,7 @@
 unless defined? GENFRAG_SPEC_HELPER
 GENFRAG_SPEC_HELPER = true
 
+require 'regressiontest'
 require 'stringio'
 require 'tmpdir'
 require File.expand_path(

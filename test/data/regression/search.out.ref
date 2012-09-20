@@ -1,0 +1,1825 @@
+---
+- fragment with adapters - primary strand
+  gatctaatcgttcaggcaatt..
+- fragment with adapters - complement strand
+  ....attagcaagtccgttaaat
+---
+- fragment with adapters - primary strand
+  gatctggcagaatctgaagctttggatattgctattggattggactgcggctcagcactttctgttgttgttggaggtgacaaaccaagatatgagttgcttggccaaccaaatactcgtgctagagtagagaaaataattatttcgttataaat..
+- fragment with adapters - complement strand
+  ....accgtcttagacttcgaaacctataacgataacctaacctgacgccgagtcgtgaaagacaacaacaacctccactgtttggttctatactcaacgaaccggttggtttatgagcacgatctcatctcttttattaataaagcaatatttaat
+---
+- fragment with adapters - primary strand
+  gatctaacttgtgatttctccaaacgagcat..
+- fragment with adapters - complement strand
+  ....attgaacactaaagaggtttgctcgtaat
+---
+- fragment with adapters - primary strand
+  gatcttattataatgaagaacttactaaagtgaagaaagatgtggacacagagtataggatagagaaggtttaccagaaaagaaaacgaccggatggtgcatatgaagtacttgtaaaattcattggatatcccgaaagggaatggatacatgagaatcaattagtataaaagacatttgttttcatattgtataattttattttccataaaaatgtcaaacagtttttacgtttgtctactaagtaatacaactgattatcccgataatcagcctaataaatttcgtgttcatcttcctaagccgctttatttttccggagactgggtttgcggtttacatagtatttcatatccctattcatggccctctactattggtacacttgatgaacaatggattgatattcactgcactgactttcgaggcaaggcgaagatcataagagtccctgtgccaagagggtctcacaataaacctgaggatttacttcaatttt..
+- fragment with adapters - complement strand
+  ....aataatattacttcttgaatgatttcacttctttctacacctgtgtctcatatcctatctcttccaaatggtcttttcttttgctggcctaccacgtatacttcatgaacattttaagtaacctatagggctttcccttacctatgtactcttagttaatcatattttctgtaaacaaaagtataacatattaaaataaaaggtatttttacagtttgtcaaaaatgcaaacagatgattcattatgttgactaatagggctattagtcggattatttaaagcacaagtagaaggattcggcgaaataaaaaggcctctgacccaaacgccaaatgtatcataaagtatagggataagtaccgggagatgataaccatgtgaactacttgttacctaactataagtgacgtgactgaaagctccgttccgcttctagtattctcagggacacggttctcccagagtgttatttggactcctaaatgaagttaaaaat
+---
+- fragment with adapters - primary strand
+  gatcccagaaaagtttattattacagctcattttgtatcaaatat..
+- fragment with adapters - complement strand
+  ....ggtcttttcaaataataatgtcgagtaaaacatagtttataat
+---
+- fragment with adapters - primary strand
+  gatctcatagtgctcggcatgttttgactttgaggttttttcaattataatttttttgacaatattttgatgagtccgcaagttttgtccgcaaattttt..
+- fragment with adapters - complement strand
+  ....agtatcacgagccgtacaaaactgaaactccaaaaaagttaatattaaaaaaactgttataaaactactcaggcgttcaaaacaggcgtttaaaaaat
+---
+- fragment with adapters - primary strand
+  gatctggtggtttat..
+- fragment with adapters - complement strand
+  ....accaccaaataat
+---
+- fragment with adapters - primary strand
+  gatctccaacactacagtgatcgctgttgctcatacaggttttttctaaaatccctttataat..
+- fragment with adapters - complement strand
+  ....aggttgtgatgtcactagcgacaacgagtatgtccaaaaaagattttagggaaatattaat
+---
+- fragment with adapters - primary strand
+  gatctgaagttgattttactggggtttgtttt..
+- fragment with adapters - complement strand
+  ....acttcaactaaaatgaccccaaacaaaaat
+---
+- fragment with adapters - primary strand
+  gatcttt..
+- fragment with adapters - complement strand
+  ....aaaat
+---
+- fragment with adapters - primary strand
+  gatctatatctattggtgttattggttatt..
+- fragment with adapters - complement strand
+  ....atatagataaccacaataaccaataaat
+---
+- fragment with adapters - primary strand
+  gatctcttggaaaattacaaagagaagctcaaaatggggattttgatatgattttacatgttggtatgtaaatataaggaaaaatagaaaaaataaggaaaaaataattt..
+- fragment with adapters - complement strand
+  ....agaaccttttaatgtttctcttcgagttttacccctaaaactatactaaaatgtacaaccatacatttatattcctttttatcttttttattccttttttattaaaat
+---
+- fragment with adapters - primary strand
+  gatctctgggatgtttttggagctagcacacattttt..
+- fragment with adapters - complement strand
+  ....agaccctacaaaaacctcgatcgtgtgtaaaaaat
+---
+- fragment with adapters - primary strand
+  gatccttacattttttattcacaggttcaacaatttgagacggttttcgtatgggatatggt..
+- fragment with adapters - complement strand
+  ....gaatgtaaaaaataagtgtccaagttgttaaactctgccaaaagcataccctataccaat
+---
+- fragment with adapters - primary strand
+  gatccacacttttt..
+- fragment with adapters - complement strand
+  ....gtgtgaaaaaat
+---
+- fragment with adapters - primary strand
+  gatccagacgccaagaagcctgaggattgggatgaaacgttcgttttttttt..
+- fragment with adapters - complement strand
+  ....gtctgcggttcttcggactcctaaccctactttgcaagcaaaaaaaaaat
+---
+- fragment with adapters - primary strand
+  gatctacctctggtctagtctatgagtccaatgaaaataaaaatttccaatgaaaacaaaatctttgttggctgttcttggactctttttttcatgatctcggtgctggccattggatttggacgcactgttccattccaacacgagttccaaaaaaggtcatcggactcataaaataaatcagagccaaaagaattttctaaaaatctttacttttggttttggtctcgttgttgacattggacttgggctctttgttccatcccatccaacacgagtccagcttattctccgtccattggactcgtaaactagaccagagctaaaagaacttttttt..
+- fragment with adapters - complement strand
+  ....atggagaccagatcagatactcaggttacttttatttttaaaggttacttttgttttagaaacaaccgacaagaacctgagaaaaaaagtactagagccacgaccggtaacctaaacctgcgtgacaaggtaaggttgtgctcaaggttttttccagtagcctgagtattttatttagtctcggttttcttaaaagatttttagaaatgaaaaccaaaaccagagcaacaactgtaacctgaacccgagaaacaaggtagggtaggttgtgctcaggtcgaataagaggcaggtaacctgagcatttgatctggtctcgattttcttgaaaaaaaat
+---
+- fragment with adapters - primary strand
+  gatctttgtttcttttggactggttctccaaatttgccatccactgaggaaggatttcaaccattgcctacaataatgtaattatttttttcatttttacaagaaatt..
+- fragment with adapters - complement strand
+  ....aaacaaagaaaacctgaccaagaggtttaaacggtaggtgactccttcctaaagttggtaacggatgttattacattaataaaaaaagtaaaaatgttctttaaat
+---
+- fragment with adapters - primary strand
+  gatcttgggaaaatatttgtacaataagcaagtcaactccgcttatagaagcaatgaaaactttcctttcaaagagggtttctgctcttcctt..
+- fragment with adapters - complement strand
+  ....aacccttttataaacatgttattcgttcagttgaggcgaatatcttcgttacttttgaaaggaaagtttctcccaaagacgagaaggaaat
+---
+- fragment with adapters - primary strand
+  gatccgaagtcttatttgcgtatacacacaacgggatcaattacaatttcaggaggtttacatttccttttggttttgtgtagaaaagaaaaataagaaagggcttttttt..
+- fragment with adapters - complement strand
+  ....gcttcagaataaacgcatatgtgtgttgccctagttaatgttaaagtcctccaaatgtaaaggaaaaccaaaacacatcttttctttttattctttcccgaaaaaaaat
+---
+- fragment with adapters - primary strand
+  gatcctcaaaaagcaattcctcttggaactcttgttgctataggaataactacatttgtttatt..
+- fragment with adapters - complement strand
+  ....gagtttttcgttaaggagaaccttgagaacaacgatatccttattgatgtaaacaaataaat
+---
+- fragment with adapters - primary strand
+  gatctgaattgtgtttttgagaaaatccggaaccgttt..
+- fragment with adapters - complement strand
+  ....acttaacacaaaaactcttttaggccttggcaaaat
+---
+- fragment with adapters - primary strand
+  gatcctgactcttatgctggaagaggtgttcaacttttggttggccactt..
+- fragment with adapters - complement strand
+  ....gactgagaatacgaccttctccacaagttgaaaaccaaccggtgaaat
+---
+- fragment with adapters - primary strand
+  gatccctacccttt..
+- fragment with adapters - complement strand
+  ....ggatgggaaaat
+---
+- fragment with adapters - primary strand
+  gatctttcactgatt..
+- fragment with adapters - complement strand
+  ....aaagtgactaaat
+---
+- fragment with adapters - primary strand
+  gatcttccagacgatcgaccagaattgcgttgtataaatt..
+- fragment with adapters - complement strand
+  ....aaggtctgctagctggtcttaacgcaacatatttaaat
+---
+- fragment with adapters - primary strand
+  gatccattagaagacggaggtatctaagttttattttatacgattgttctatatttt..
+- fragment with adapters - complement strand
+  ....gtaatcttctgcctccatagattcaaaataaaatatgctaacaagatataaaaat
+---
+- fragment with adapters - primary strand
+  gatccatctaccgtattttctcaagtaactaccctgggtaaatatttttttcaaactctcgcctatgagggtgattagtagagatgattttagatagggtaattgtccatgtttgtgaggggtaattattgtttcaacataaccctggagagataattacagggaagggt..
+- fragment with adapters - complement strand
+  ....gtagatggcataaaagagttcattgatgggacccatttataaaaaaagtttgagagcggatactcccactaatcatctctactaaaatctatcccattaacaggtacaaacactccccattaataacaaagttgtattgggacctctctattaatgtcccttcccaat
+---
+- fragment with adapters - primary strand
+  gatccaaatagacgcattcggcagcacaattctggcaaagaacatggaggagcgaaaaaaactgatagcaaaggtccttggtatgattttgaaaactaattgatttcttattcaatttagggatatggtttgtatagtccatggctttccaaatgcaatttctgctctccagtttgaatgggcttggcaaaatccagataaatcaaaacgactcaaacgcctatacatgcaaaaagatcgaaaagaaactccttttgcttttcgcttccgaattgttat..
+- fragment with adapters - complement strand
+  ....gtttatctgcgtaagccgtcgtgttaagaccgtttcttgtacctcctcgctttttttgactatcgtttccaggaaccatactaaaacttttgattaactaaagaataagttaaatccctataccaaacatatcaggtaccgaaaggtttacgttaaagacgagaggtcaaacttacccgaaccgttttaggtctatttagttttgctgagtttgcggatatgtacgtttttctagcttttctttgaggaaaacgaaaagcgaaggcttaacaataat
+---
+- fragment with adapters - primary strand
+  gatctttgaatggccagcaacaaaat..
+- fragment with adapters - complement strand
+  ....aaacttaccggtcgttgttttaat
+---
+- fragment with adapters - primary strand
+  gatctattataatatttctaggtcgttttgcaaggaaaatcgcgtgatgtgattgttcgtgagttacaacgtaccaacttgaatgtcaacgaggctgtaaacaacttgctctctcgagatgatgatgaaatggatgatttggatgacactagcgaggcctatctacatgaagaattgctttcattactcgatgctggtcttcgttctgatggaagtggtgctgctgctgccgctttacttgatagtgatagcatttactctgctggagatggttatgaatatcttatttctcgtgatttggctaaacgtaagggtgaaggtttggggataagtttttatttttt..
+- fragment with adapters - complement strand
+  ....ataatattataaagatccagcaaaacgttccttttagcgcactacactaacaagcactcaatgttgcatggttgaacttacagttgctccgacatttgttgaacgagagagctctactactactttacctactaaacctactgtgatcgctccggatagatgtacttcttaacgaaagtaatgagctacgaccagaagcaagactaccttcaccacgacgacgacggcgaaatgaactatcactatcgtaaatgagacgacctctaccaatacttatagaataaagagcactaaaccgatttgcattcccacttccaaacccctattcaaaaataaaaaaat
+---
+- fragment with adapters - primary strand
+  gatctgcgaggtactctt..
+- fragment with adapters - complement strand
+  ....acgctccatgagaaat
+---
+- fragment with adapters - primary strand
+  gatcttcacaattctctatgggctctgttcaaggtgctccaccattttctcaaccttctctacaggttttctt..
+- fragment with adapters - complement strand
+  ....aagtgttaagagatacccgagacaagttccacgaggtggtaaaagagttggaagagatgtccaaaagaaat
+---
+- fragment with adapters - primary strand
+  gatcttataaaatgt..
+- fragment with adapters - complement strand
+  ....aatattttacaat
+---
+- fragment with adapters - primary strand
+  gatcctgtattttgagttttgtttttaggctctctggggcacaattgctggaaatccaaaaggt..
+- fragment with adapters - complement strand
+  ....gacataaaactcaaaacaaaaatccgagagaccccgtgttaacgacctttaggttttccaat
+---
+- fragment with adapters - primary strand
+  gatcctt..
+- fragment with adapters - complement strand
+  ....gaaat
+---
+- fragment with adapters - primary strand
+  gatctaacaaaagtttactacacacccattctctgcaattttttacaaggattttttatt..
+- fragment with adapters - complement strand
+  ....attgttttcaaatgatgtgtgggtaagagacgttaaaaaatgttcctaaaaaataaat
+---
+- fragment with adapters - primary strand
+  gatctggactaattttcgaatccattgacctggactggagtctggcctgcagtccaggaaaaaccccccaggaaggtcaacaaatgcctgggcctgaactctgggtaaagaat..
+- fragment with adapters - complement strand
+  ....acctgattaaaagcttaggtaactggacctgacctcagaccggacgtcaggtcctttttggggggtccttccagttgtttacggacccggacttgagacccatttcttaat
+---
+- fragment with adapters - primary strand
+  gatctctcgggtttatttttgaatctgcaaacttttat..
+- fragment with adapters - complement strand
+  ....agagcccaaataaaaacttagacgtttgaaaataat
+---
+- fragment with adapters - primary strand
+  gatcctgaacaattttggacaccttatggattgcgttcaatatctacactttcaccttattattttacttggaattctaaaactgggtctccttattggagagggcctatttggat..
+- fragment with adapters - complement strand
+  ....gacttgttaaaacctgtggaatacctaacgcaagttatagatgtgaaagtggaataataaaatgaaccttaagattttgacccagaggaataacctctcccggataaacctaat
+---
+- fragment with adapters - primary strand
+  gatccaatatctggaagacttggagcttttgttactcgtgttaggcctggttcaattgcagatactgttggacagttgagagctggtaagagatttttt..
+- fragment with adapters - complement strand
+  ....gttatagaccttctgaacctcgaaaacaatgagcacaatccggaccaagttaacgtctatgacaacctgtcaactctcgaccattctctaaaaaaat
+---
+- fragment with adapters - primary strand
+  gatctagacacaacatatattcttgaggtggat..
+- fragment with adapters - complement strand
+  ....atctgtgttgtatataagaactccacctaat
+---
+- fragment with adapters - primary strand
+  gatctctcgtttatcgaacat..
+- fragment with adapters - complement strand
+  ....agagcaaatagcttgtaat
+---
+- fragment with adapters - primary strand
+  gatcttatgaatcttcttctatcgatgatatggaagacgatgatttggaatatttggatgatgaggatgttgctacagaagatgatccgactgaaactgatgttgagataagaactgagggtgaagaaactgt..
+- fragment with adapters - complement strand
+  ....aatacttagaagaagatagctactataccttctgctactaaaccttataaacctactactcctacaacgatgtcttctactaggctgactttgactacaactctattcttgactcccacttctttgacaat
+---
+- fragment with adapters - primary strand
+  gatctttacaaaaaaattt..
+- fragment with adapters - complement strand
+  ....aaatgtttttttaaaat
+---
+- fragment with adapters - primary strand
+  gatctgcttgtcagaaattacaaccaaaacgtgttttagacacatgctcatcaaggccttttccttataagcgggttgtacgtaatcgtcctggtcctatgtatgtatt..
+- fragment with adapters - complement strand
+  ....acgaacagtctttaatgttggttttgcacaaaatctgtgtacgagtagttccggaaaaggaatattcgcccaacatgcattagcaggaccaggatacatacataaat
+---
+- fragment with adapters - primary strand
+  gatccgttgcgtgtcgaacattttcgtcttttttcaagaatttatggtcgttttgatgctaaacgtcgttcagacagaactt..
+- fragment with adapters - complement strand
+  ....gcaacgcacagcttgtaaaagcagaaaaaagttcttaaataccagcaaaactacgatttgcagcaagtctgtcttgaaat
+---
+- fragment with adapters - primary strand
+  gatctgccggaaatgatgtttgttttgttgtttttatgtttttcttttt..
+- fragment with adapters - complement strand
+  ....acggcctttactacaaacaaaacaacaaaaatacaaaaagaaaaaat
+---
+- fragment with adapters - primary strand
+  gatctcatttccgattggatatcccttcttttggctgaaaatcgtgaacgaatcgaaaaagttgatgatacttttagatgttttgtgaatccaaaaagtgttgagtacctctttactgtttgtttacggttacaacttcctccagatgtcaaatatattgctttggaaatttataacaagttagtgtatttt..
+- fragment with adapters - complement strand
+  ....agtaaaggctaacctatagggaagaaaaccgacttttagcacttgcttagctttttcaactactatgaaaatctacaaaacacttaggtttttcacaactcatggagaaatgacaaacaaatgccaatgttgaaggaggtctacagtttatataacgaaacctttaaatattgttcaatcacataaaaat
+---
+- fragment with adapters - primary strand
+  gatctttaccagaatcagtaacaaagcaacacactgatgatcaatttgttcaatggccaccgat..
+- fragment with adapters - complement strand
+  ....aaatggtcttagtcattgtttcgttgtgtgactactagttaaacaagttaccggtggctaat
+---
+- fragment with adapters - primary strand
+  gatccagaaggaaaatatattctttctacgaggttatttttgtcatttt..
+- fragment with adapters - complement strand
+  ....gtcttccttttatataagaaagatgctccaataaaaacagtaaaaat
+---
+- fragment with adapters - primary strand
+  gatcctgttcgttttctagtcccagtgcttgcaggtttttt..
+- fragment with adapters - complement strand
+  ....gacaagcaaaagatcagggtcacgaacgtccaaaaaaat
+---
+- fragment with adapters - primary strand
+  gatcttgaagaagctcatggacggtaagatttctgatttaggtattctgatat..
+- fragment with adapters - complement strand
+  ....aacttcttcgagtacctgccattctaaagactaaatccataagactataat
+---
+- fragment with adapters - primary strand
+  gatccagaattacttcaacgaatacgctggtcagatatagatcaacaatatcgtagaaatagagaacaactaaaagatt..
+- fragment with adapters - complement strand
+  ....gtcttaatgaagttgcttatgcgaccagtctatatctagttgttatagcatctttatctcttgttgattttctaaat
+---
+- fragment with adapters - primary strand
+  gatctt..
+- fragment with adapters - complement strand
+  ....aaat
+---
+- fragment with adapters - primary strand
+  gatcctcatctctctcgattcccctatctttcttcaactattctcgcgacgtt..
+- fragment with adapters - complement strand
+  ....gagtagagagagctaaggggatagaaagaagttgataagagcgctgcaaat
+---
+- fragment with adapters - primary strand
+  gatccgtctagttgttactcgttctgagatagatatggctgatattcgttcagcatatcaacaactttatggtatatcattggaacaagctattgcatctgactgttctggctcttacaaagtgagaatgattttttt..
+- fragment with adapters - complement strand
+  ....gcagatcaacaatgagcaagactctatctataccgactataagcaagtcgtatagttgttgaaataccatatagtaaccttgttcgataacgtagactgacaagaccgagaatgtttcactcttactaaaaaaaat
+---
+- fragment with adapters - primary strand
+  gatctgaaaaatctcgccgaactcaatgcttctaattcacctgggtgttcgactggagggagtaatgccaatatagctgagagggtgagat..
+- fragment with adapters - complement strand
+  ....actttttagagcggcttgagttacgaagattaagtggacccacaagctgacctccctcattacggttatatcgactctcccactctaat
+---
+- fragment with adapters - primary strand
+  gatctagattctt..
+- fragment with adapters - complement strand
+  ....atctaagaaat
+---
+- fragment with adapters - primary strand
+  gatct..
+- fragment with adapters - complement strand
+  ....aat
+---
+- fragment with adapters - primary strand
+  gatctaaagaattggaaaagaaaaatccaaggtttttttttatttttttagcttt..
+- fragment with adapters - complement strand
+  ....atttcttaaccttttctttttaggttccaaaaaaaaataaaaaaatcgaaaat
+---
+- fragment with adapters - primary strand
+  gatctgttttcattattggatggccaaattcgaaatgactt..
+- fragment with adapters - complement strand
+  ....acaaaagtaataacctaccggtttaagctttactgaaat
+---
+- fragment with adapters - primary strand
+  gatctttagat..
+- fragment with adapters - complement strand
+  ....aaatctaat
+---
+- fragment with adapters - primary strand
+  gatccaaaatgggaacaagctattattcttgaagatggggttactataagtaatctgactttgggggaatctccaataggtacatctgctgatattatgtgtaaaggttcttgtacact..
+- fragment with adapters - complement strand
+  ....gttttacccttgttcgataataagaacttctaccccaatgatattcattagactgaaacccccttagaggttatccatgtagacgactataatacacatttccaagaacatgtgaat
+---
+- fragment with adapters - primary strand
+  gatctgtctctaaaaatcaattttt..
+- fragment with adapters - complement strand
+  ....acagagatttttagttaaaaaat
+---
+- fragment with adapters - primary strand
+  gatccggaaaatgacgatgatcctgaaagtttggacccagaaggtt..
+- fragment with adapters - complement strand
+  ....gccttttactgctactaggactttcaaacctgggtcttccaaat
+---
+- fragment with adapters - primary strand
+  gatcttttatatataggctaattttgggggctagttttgttttattcataat..
+- fragment with adapters - complement strand
+  ....aaaatatatatccgattaaaacccccgatcaaaacaaaataagtattaat
+---
+- fragment with adapters - primary strand
+  gatctaattgttgtctgttcactgctaagttcggcatgtattgcagttggagcttgggtattttctcaatatgaaggatggccgtatttcgattctgttagtttttacgaggt..
+- fragment with adapters - complement strand
+  ....attaacaacagacaagtgacgattcaagccgtacataacgtcaacctcgaacccataaaagagttatacttcctaccggcataaagctaagacaatcaaaaatgctccaat
+---
+- fragment with adapters - primary strand
+  gatctgaattactggttccaaactcctttcaagcgatcagacaaatttatttctcttctttcaatccaccaccagggaaaataaaggttt..
+- fragment with adapters - complement strand
+  ....acttaatgaccaaggtttgaggaaagttcgctagtctgtttaaataaagagaagaaagttaggtggtggtcccttttatttccaaaat
+---
+- fragment with adapters - primary strand
+  gatccttacggatatttttatgaaaatgacaaaaattcaccaacaaatagtaattggtatacaagtccaaccccgcctgtacctccacaaaatattgcacaaccat..
+- fragment with adapters - complement strand
+  ....gaatgcctataaaaatacttttactgtttttaagtggttgtttatcattaaccatatgttcaggttggggcggacatggaggtgttttataacgtgttggtaat
+---
+- fragment with adapters - primary strand
+  gatctctttcgtcagcatctcatatttctcacaattctgctgcctcaattggaacaactgattctgctgtgctatcacaaagtgcctcaggttctgctaatatattt..
+- fragment with adapters - complement strand
+  ....agaaagcagtcgtagagtataaagagtgttaagacgacggagttaaccttgttgactaagacgacacgatagtgtttcacggagtccaagacgattatataaaat
+---
+- fragment with adapters - primary strand
+  gatcccccccccccttttttgtccataactttccaggacgttcccctaacttgctgctcatttttttcattatttcaatgattatttgaagatcagagcttttaggct..
+- fragment with adapters - complement strand
+  ....ggggggggggaaaaaacaggtattgaaaggtcctgcaaggggattgaacgacgagtaaaaaaagtaataaagttactaataaacttctagtctcgaaaatccgaat
+---
+- fragment with adapters - primary strand
+  gatctattatt..
+- fragment with adapters - complement strand
+  ....ataataaat
+---
+- fragment with adapters - primary strand
+  gatcttatttcgaatgctcttatgcttgaacttt..
+- fragment with adapters - complement strand
+  ....aataaagcttacgagaatacgaacttgaaaat
+---
+- fragment with adapters - primary strand
+  gatcttttgatgatt..
+- fragment with adapters - complement strand
+  ....aaaactactaaat
+---
+- fragment with adapters - primary strand
+  gatctcacacacaaatttgtccgcaattatcgattgatgactaatatatttttatacgtcttcctttctttatagaacaacaaccaaacccaacaacaacgttcattcggaggaaatggtgctgcatt..
+- fragment with adapters - complement strand
+  ....agtgtgtgtttaaacaggcgttaatagctaactactgattatataaaaatatgcagaaggaaagaaatatcttgttgttggtttgggttgttgttgcaagtaagcctcctttaccacgacgtaaat
+---
+- fragment with adapters - primary strand
+  gatcctttatgcttggcactattttatttccgtat..
+- fragment with adapters - complement strand
+  ....gaaatacgaaccgtgataaaataaaggcataat
+---
+- fragment with adapters - primary strand
+  gatctagaacaacttcgtattcatctacttgttcttctt..
+- fragment with adapters - complement strand
+  ....atcttgttgaagcataagtagatgaacaagaagaaat
+---
+- fragment with adapters - primary strand
+  gatccttctttggatggttttgtacctttatgtcgttatcttggccttccttctactattttggaaatacttggaggccctgaagttgaacaactctttcgaatgtt..
+- fragment with adapters - complement strand
+  ....gaagaaacctaccaaaacatggaaatacagcaatagaaccggaaggaagatgataaaacctttatgaacctccgggacttcaacttgttgagaaagcttacaaat
+---
+- fragment with adapters - primary strand
+  gatcccacaaattggaatatgcccttctatgacggaaatgactcgaaaggatatagaaaatggtaatggggctattacagtcttacaacaacaacaacaacaattacctcaaatgactgctattgaagcaattcaggcaaatttttgattgaatttttatt..
+- fragment with adapters - complement strand
+  ....ggtgtttaaccttatacgggaagatactgcctttactgagctttcctatatcttttaccattaccccgataatgtcagaatgttgttgttgttgttgttaatggagtttactgacgataacttcgttaagtccgtttaaaaactaacttaaaaataaat
+---
+- fragment with adapters - primary strand
+  gatccgtgcatt..
+- fragment with adapters - complement strand
+  ....gcacgtaaat
+---
+- fragment with adapters - primary strand
+  gatctgatcaccatctttggggtaatt..
+- fragment with adapters - complement strand
+  ....actagtggtagaaaccccattaaat
+---
+- fragment with adapters - primary strand
+  gatccatatatgagaagat..
+- fragment with adapters - complement strand
+  ....gtatatactcttctaat
+---
+- fragment with adapters - primary strand
+  gatctcctctttttcgaaagtctttggaatctgaaccaaaacttattgaattattgcaaagattttgtcaaagtcaatttggtatttgtcttgatattct..
+- fragment with adapters - complement strand
+  ....aggagaaaaagctttcagaaaccttagacttggttttgaataacttaataacgtttctaaaacagtttcagttaaaccataaacagaactataagaat
+---
+- fragment with adapters - primary strand
+  gatctcaaaggcaaccatcttcacctacttgcagtgcacatacaccttcagcatcttctcctataaaaacaacaccatatatataatt..
+- fragment with adapters - complement strand
+  ....agtttccgttggtagaagtggatgaacgtcacgtgtatgtggaagtcgtagaagaggatatttttgttgtggtatatatattaaat
+---
+- fragment with adapters - primary strand
+  gatccatatagtgccagattgccaaattattgtattcaaatagttcaaaataaatcttcaataacttttactacgagagatt..
+- fragment with adapters - complement strand
+  ....gtatatcacggtctaacggtttaataacataagtttatcaagttttatttagaagttattgaaaatgatgctctctaaat
+---
+- fragment with adapters - primary strand
+  gatcttcaaatatt..
+- fragment with adapters - complement strand
+  ....aagtttataaat
+---
+- fragment with adapters - primary strand
+  gatctgagatgtatagggccatcgacaatactgatgacatgtttgt..
+- fragment with adapters - complement strand
+  ....actctacatatcccggtagctgttatgactactgtacaaacaat
+---
+- fragment with adapters - primary strand
+  gatctaccttggctgagtgagtcaaaaatgctcggacagttttttagggaatataaataagatggatggcggtgggaaaggcgttccttggggttccaatcatcatt..
+- fragment with adapters - complement strand
+  ....atggaaccgactcactcagtttttacgagcctgtcaaaaaatcccttatatttattctacctaccgccaccctttccgcaaggaaccccaaggttagtagtaaat
+---
+- fragment with adapters - primary strand
+  gatctaatggaagaggatcaaatgcaggaaaggaaggaagaggaaagggaggattatctaaagaagagaaagatataggaagaggattggaggaaggaaatccagatagagaaacattgcccaaagaaagtaatcgtggaagaggattggaagggagagaagaattgaaagaagggaagat..
+- fragment with adapters - complement strand
+  ....attaccttctcctagtttacgtcctttccttccttctcctttccctcctaatagatttcttctctttctatatccttctcctaacctccttcctttaggtctatctctttgtaacgggtttctttcattagcaccttctcctaaccttccctctcttcttaactttcttcccttctaat
+---
+- fragment with adapters - primary strand
+  gatcctaatagatatcgtgttcgagatgaaaaaggtgaaaaatt..
+- fragment with adapters - complement strand
+  ....gattatctatagcacaagctctactttttccactttttaaat
+---
+- fragment with adapters - primary strand
+  gatccaaaaatcatgtctttgtccatttctt..
+- fragment with adapters - complement strand
+  ....gtttttagtacagaaacaggtaaagaaat
+---
+- fragment with adapters - primary strand
+  gatctctaggtcagaacgaatgcgaaggaagttggctagggctattggatttcgattgccggaaccaaacggaaaagagacgactaatgaaagtgtagcaacatctacagaggt..
+- fragment with adapters - complement strand
+  ....agatccagtcttgcttacgcttccttcaaccgatcccgataacctaaagctaacggccttggtttgccttttctctgctgattactttcacatcgttgtagatgtctccaat
+---
+- fragment with adapters - primary strand
+  gatctaagaaagacgttgctt..
+- fragment with adapters - complement strand
+  ....attctttctgcaacgaaat
+---
+- fragment with adapters - primary strand
+  gatccttataaagagaaat..
+- fragment with adapters - complement strand
+  ....gaatatttctctttaat
+---
+- fragment with adapters - primary strand
+  gatccaacagtaaatttcgcaaaaagaaatatcatttaggtttgatttcctaggtttattgtcaacttcttgaggaagggcgcatgcttcgtgttgaggttttttttcacgtcaagagttttattattagttttatatctttatagtgccaaatcggtgaaacaccgcatatacgtgatctcataatattcttctacgatgaaagatttggtccaat..
+- fragment with adapters - complement strand
+  ....gttgtcatttaaagcgtttttctttatagtaaatccaaactaaaggatccaaataacagttgaagaactccttcccgcgtacgaagcacaactccaaaaaaaagtgcagttctcaaaataataatcaaaatatagaaatatcacggtttagccactttgtggcgtatatgcactagagtattataagaagatgctactttctaaaccaggttaat
+---
+- fragment with adapters - primary strand
+  gatctgataaaaaatgttggtttagcaaatccagctatgttccgcactgttcttcttattagaaacagcaagtggttgaatagtagctgcacgatacaatctgggattgcttatactaaaatagaaaaccaaattgcttttgacaaagtggactatt..
+- fragment with adapters - complement strand
+  ....actattttttacaaccaaatcgtttaggtcgatacaaggcgtgacaagaagaataatctttgtcgttcaccaacttatcatcgacgtgctatgttagaccctaacgaatatgattttatcttttggtttaacgaaaactgtttcacctgataaat
+---
+- fragment with adapters - primary strand
+  gatcccgtaaatggggaaaacatttgttatactttacatgtatatgcagctactcataagcaagatataaggaataaggcacagatagcattggataatgtatgtaaaattaggtataatcaaatattattccaaaataaataaagggagtatgcatttttgtgactgagtacggcactgtttccgcaaccggaggtggtcaaatagatgaagggtctatgaatgattggtggaatttctgggataaaaacaatatttcatatctgaactgggcaatcgataataaaggagaaggatcagcagctttagtaccaaatacagtcgcatcagatgtgggaactccttctcactggtcaaaatctggtcaaatggttcagaataagct..
+- fragment with adapters - complement strand
+  ....ggcatttaccccttttgtaaacaatatgaaatgtacatatacgtcgatgagtattcgttctatattccttattccgtgtctatcgtaacctattacatacattttaatccatattagtttataataaggttttatttatttccctcatacgtaaaaacactgactcatgccgtgacaaaggcgttggcctccaccagtttatctacttcccagatacttactaaccaccttaaagaccctatttttgttataaagtatagacttgacccgttagctattatttcctcttcctagtcgtcgaaatcatggtttatgtcagcgtagtctacacccttgaggaagagtgaccagttttagaccagtttaccaagtcttattcgaat
+---
+- fragment with adapters - primary strand
+  gatctctttctcgagaagattcaaagagt..
+- fragment with adapters - complement strand
+  ....agaaagagctcttctaagtttctcaat
+---
+- fragment with adapters - primary strand
+  gatcttcaaaaagcgataagaaatatggcactgaaactgaggctgtttt..
+- fragment with adapters - complement strand
+  ....aagtttttcgctattctttataccgtgactttgactccgacaaaaat
+---
+- fragment with adapters - primary strand
+  gatctctagtaagtt..
+- fragment with adapters - complement strand
+  ....agatcattcaaat
+---
+- fragment with adapters - primary strand
+  gatcttcaatggcgcctaatttattggttatgatttttgcaagaatattgttaggattagctgttggttgcgcttctgcagctgtgcctatttttcttgcagaattggctccagctgagaaaaggggacagatggttactcgtaatgaattgatgatagttgttggacaattggttgcttttcttagtaatgctatacttggaactatttggggagataagtcagt..
+- fragment with adapters - complement strand
+  ....aagttaccgcggattaaataaccaatactaaaaacgttcttataacaatcctaatcgacaaccaacgcgaagacgtcgacacggataaaaagaacgtcttaaccgaggtcgactcttttcccctgtctaccaatgagcattacttaactactatcaacaacctgttaaccaacgaaaagaatcattacgatatgaaccttgataaacccctctattcagtcaat
+---
+- fragment with adapters - primary strand
+  gatctgatgtcgaccaactttatttgataattcaaacaattggtattttat..
+- fragment with adapters - complement strand
+  ....actacagctggttgaaataaactattaagtttgttaaccataaaataat
+---
+- fragment with adapters - primary strand
+  gatccttctccacttgt..
+- fragment with adapters - complement strand
+  ....gaagaggtgaacaat
+---
+- fragment with adapters - primary strand
+  gatccgatcaatatt..
+- fragment with adapters - complement strand
+  ....gctagttataaat
+---
+- fragment with adapters - primary strand
+  gatcctaacaatcgatgggtatatttatattgttct..
+- fragment with adapters - complement strand
+  ....gattgttagctacccatataaatataacaagaat
+---
+- fragment with adapters - primary strand
+  gatctccaaatccgcgtcgcaaatattgaacgccgacttactgcactagaacgggcagttgaaagattagagcgtcgtgttgagtcacttgaagggcgagttgaggcgctagaagggcgagttgaggcgctagaagggaatgaagatgaggaacagggtgaagaaggtttctttatttctttatatctttttcagttctaaatttttctggggttttagacattagtattgttacaacaaagggcagtaattcccatgaattgcgctccctgacataaattattt..
+- fragment with adapters - complement strand
+  ....aggtttaggcgcagcgtttataacttgcggctgaatgacgtgatcttgcccgtcaactttctaatctcgcagcacaactcagtgaacttcccgctcaactccgcgatcttcccgctcaactccgcgatcttcccttacttctactccttgtcccacttcttccaaagaaataaagaaatatagaaaaagtcaagatttaaaaagaccccaaaatctgtaatcataacaatgttgtttcccgtcattaagggtacttaacgcgagggactgtatttaataaaat
+---
+- fragment with adapters - primary strand
+  gatccttatattgttgttgctgcaggttttttt..
+- fragment with adapters - complement strand
+  ....gaatataacaacaacgacgtccaaaaaaaat
+---
+- fragment with adapters - primary strand
+  gatccacgaataaatatttatctctatgctcttttatttgtggatt..
+- fragment with adapters - complement strand
+  ....gtgcttatttataaatagagatacgagaaaataaacacctaaat
+---
+- fragment with adapters - primary strand
+  gatcttt..
+- fragment with adapters - complement strand
+  ....aaaat
+---
+- fragment with adapters - primary strand
+  gatctattggaaatttatggatgacaccaacagctagaagacgaacttctttacattctactgatgataggtttgtgagaggaattttt..
+- fragment with adapters - complement strand
+  ....ataacctttaaatacctactgtggttgtcgatcttctgcttgaagaaatgtaagatgactactatccaaacactctccttaaaaaat
+---
+- fragment with adapters - primary strand
+  gatctaaatattcaacat..
+- fragment with adapters - complement strand
+  ....atttataagttgtaat
+---
+- fragment with adapters - primary strand
+  gatccttctggcacttatattcgttgtattgcaaaggccattggagctggtggagatggagcagagcaagcat..
+- fragment with adapters - complement strand
+  ....gaagaccgtgaatataagcaacataacgtttccggtaacctcgaccacctctacctcgtctcgttcgtaat
+---
+- fragment with adapters - primary strand
+  gatctggtagaggattacttatagaaacagagtaaactactgtatttt..
+- fragment with adapters - complement strand
+  ....accatctcctaatgaatatctttgtctcatttgatgacataaaaat
+---
+- fragment with adapters - primary strand
+  gatctttgttgttgttctgcgaagttgaatttcttcctcctggcataaaat..
+- fragment with adapters - complement strand
+  ....aaacaacaacaagacgcttcaacttaaagaaggaggaccgtattttaat
+---
+- fragment with adapters - primary strand
+  gatct..
+- fragment with adapters - complement strand
+  ....aat
+---
+- fragment with adapters - primary strand
+  gatccaacaatgttgggatggcaagaatttgatgaagtttgaaagaaaatattt..
+- fragment with adapters - complement strand
+  ....gttgttacaaccctaccgttcttaaactacttcaaactttcttttataaaat
+---
+- fragment with adapters - primary strand
+  gatcttgact..
+- fragment with adapters - complement strand
+  ....aactgaat
+---
+- fragment with adapters - primary strand
+  gatcttttataatactcattt..
+- fragment with adapters - complement strand
+  ....aaaatattatgagtaaaat
+---
+- fragment with adapters - primary strand
+  gatccatccaattccttcaagcaacttgtcgtcgagaattcacttttttggactttat..
+- fragment with adapters - complement strand
+  ....gtaggttaaggaagttcgttgaacagcagctcttaagtgaaaaaacctgaaataat
+---
+- fragment with adapters - primary strand
+  gatctatattacat..
+- fragment with adapters - complement strand
+  ....atataatgtaat
+---
+- fragment with adapters - primary strand
+  gatccgcaaatgcaaaaggtttattt..
+- fragment with adapters - complement strand
+  ....gcgtttacgttttccaaataaaat
+---
+- fragment with adapters - primary strand
+  gatccaaattgtgatgttagttcaattttgagaaatggacaagtctt..
+- fragment with adapters - complement strand
+  ....gtttaacactacaatcaagttaaaactctttacctgttcagaaat
+---
+- fragment with adapters - primary strand
+  gatcctttggtttgacaatataaaattagtggatgattttttttctatttttatagttctccgaaaaaactgatgtatgggcatttggtgtactgatttgggaaatattcgcacgtcacaaagaaccttatggaaatatgaaaagtatagaggtgaagaaatttcttgaagctggtgaaagacttgagcgcacgaagcattgtcctgagcccctatagtaagatttcttattcaagtgttgatgaaattatcttatttagtgatt..
+- fragment with adapters - complement strand
+  ....gaaaccaaactgttatattttaatcacctactaaaaaaaagataaaaatatcaagaggcttttttgactacatacccgtaaaccacatgactaaaccctttataagcgtgcagtgtttcttggaatacctttatacttttcatatctccacttctttaaagaacttcgaccactttctgaactcgcgtgcttcgtaacaggactcggggatatcattctaaagaataagttcacaactactttaatagaataaatcactaaat
+---
+- fragment with adapters - primary strand
+  gatccgagagtatgtggttttttatt..
+- fragment with adapters - complement strand
+  ....gctctcatacaccaaaaaataaat
+---
+- fragment with adapters - primary strand
+  gatcctatcctggggagttcaactccagatttcgt..
+- fragment with adapters - complement strand
+  ....gataggacccctcaagttgaggtctaaagcaat
+---
+- fragment with adapters - primary strand
+  gatcttttttttt..
+- fragment with adapters - complement strand
+  ....aaaaaaaaaat
+---
+- fragment with adapters - primary strand
+  gatcccaagttctttttttgcttgttttcgtctgccgttatttggatatttttacaaattttgtgtcaatttataatactgttatgaaggtttttttgaaaatattgatattttttattagtcgtttatttttagttgttctttattgcttcatcaattgccactgtctacttcatttatcaaaaatttagagcaacatttgatcggtattttt..
+- fragment with adapters - complement strand
+  ....ggttcaagaaaaaaacgaacaaaagcagacggcaataaacctataaaaatgtttaaaacacagttaaatattatgacaatacttccaaaaaaacttttataactataaaaaataatcagcaaataaaaatcaacaagaaataacgaagtagttaacggtgacagatgaagtaaatagtttttaaatctcgttgtaaactagccataaaaaat
+---
+- fragment with adapters - primary strand
+  gatcttctagtttcttcctttacattcttttgagtgctcttcttctttgtacagttccagttggttatgtaataaccgtgaaacgtccatcaattctttgcggcccattcgcgtttgcttttatttcctt..
+- fragment with adapters - complement strand
+  ....aagatcaaagaaggaaatgtaagaaaactcacgagaagaagaaacatgtcaaggtcaaccaatacattattggcactttgcaggtagttaagaaacgccgggtaagcgcaaacgaaaataaaggaaat
+---
+- fragment with adapters - primary strand
+  gatcttcagatgaagactgctgttttactccacaatcagcacctggacgttctcccggtactttttctaaaaatggtgttatgggtgcagatagcggtggaagaacaatttggagatggcgagaaaagcttgaaaatgttgtggcattgaagcaattggatagagatactttatttttggcttataataatcaggtttattttggaagatttttttttggt..
+- fragment with adapters - complement strand
+  ....aagtctacttctgacgacaaaatgaggtgttagtcgtggacctgcaagagggccatgaaaaagatttttaccacaatacccacgtctatcgccaccttcttgttaaacctctaccgctcttttcgaacttttacaacaccgtaacttcgttaacctatctctatgaaataaaaaccgaatattattagtccaaataaaaccttctaaaaaaaaaccaat
+---
+- fragment with adapters - primary strand
+  gatccaagtt..
+- fragment with adapters - complement strand
+  ....gttcaaat
+---
+- fragment with adapters - primary strand
+  gatccagaagagcgtgttcaaagcccattcaagcctgatgaagaatttgatatacgtgtacgaattttgccaggaaaatttcaggcaatttttctacaactatataatattttt..
+- fragment with adapters - complement strand
+  ....gtcttctcgcacaagtttcgggtaagttcggactacttcttaaactatatgcacatgcttaaaacggtccttttaaagtccgttaaaaagatgttgatatattataaaaaat
+---
+- fragment with adapters - primary strand
+  gatctgtaatgtttggccaccctctttctgaatt..
+- fragment with adapters - complement strand
+  ....acattacaaaccggtgggagaaagacttaaat
+---
+- fragment with adapters - primary strand
+  gatctctgatgatgctgaacgtcttgcactaatttgcaagcgttgtaacaaggaaagaattgcaataattgattatgttgtttttggcactggattggatgatatagtaaatcaaatacgttttgaggttgaacaactgactggattgacttgtagtgctggtaatgaggttttttagatttttgggggatttggggagatttttgagggatttcggggagaaacgccttgtgccccttggttcgtcttgagtccttcacaatcatttt..
+- fragment with adapters - complement strand
+  ....agactactacgacttgcagaacgtgattaaacgttcgcaacattgttcctttcttaacgttattaactaatacaacaaaaaccgtgacctaacctactatatcatttagtttatgcaaaactccaacttgttgactgacctaactgaacatcacgaccattactccaaaaaatctaaaaaccccctaaacccctctaaaaactccctaaagcccctctttgcggaacacggggaaccaagcagaactcaggaagtgttagtaaaaat
+---
+- fragment with adapters - primary strand
+  gatctatgagttcttgttacctttat..
+- fragment with adapters - complement strand
+  ....atactcaagaacaatggaaataat
+---
+- fragment with adapters - primary strand
+  gatcttgaacgtactgatgatcgtt..
+- fragment with adapters - complement strand
+  ....aacttgcatgactactagcaaat
+---
+- fragment with adapters - primary strand
+  gatccgacagattcaacacaagcaatatttttattggctgaggtttgttggagttccttttttgaagtttttcgggttttcaaatttctaaaaaaatttttttt..
+- fragment with adapters - complement strand
+  ....gctgtctaagttgtgttcgttataaaaataaccgactccaaacaacctcaaggaaaaaacttcaaaaagcccaaaagtttaaagatttttttaaaaaaaaat
+---
+- fragment with adapters - primary strand
+  gatcctgaaagaatggcaaaaagaggagatttgcctgattttgatgaaattattagaaggcgaaaaagggcaaaaaat..
+- fragment with adapters - complement strand
+  ....gactttcttaccgtttttctcctctaaacggactaaaactactttaataatcttccgctttttcccgttttttaat
+---
+- fragment with adapters - primary strand
+  gatctggaaaattggctggcggtatttttctcaat..
+- fragment with adapters - complement strand
+  ....accttttaaccgaccgccataaaaagagttaat
+---
+- fragment with adapters - primary strand
+  gatctcttgt..
+- fragment with adapters - complement strand
+  ....agaacaat
+---
+- fragment with adapters - primary strand
+  gatcctgatgagggaaaaagtgtttgtaattttcaattttttgttctataaaatatctttttaggattgccgtttgtagtttggaatatgggagttttgttgttacaattttggggatgcataatggcctttttgaagt..
+- fragment with adapters - complement strand
+  ....gactactccctttttcacaaacattaaaagttaaaaaacaagatattttatagaaaaatcctaacggcaaacatcaaaccttataccctcaaaacaacaatgttaaaacccctacgtattaccggaaaaacttcaat
+---
+- fragment with adapters - primary strand
+  gatctgggcaaaatacattatctacaacaacatcaataaataattgttcttctttacaaaataatttttcacctcctgcttctgttcaacaacaacaatattctccttctataat..
+- fragment with adapters - complement strand
+  ....acccgttttatgtaatagatgttgttgtagttatttattaacaagaagaaatgttttattaaaaagtggaggacgaagacaagttgttgttgttataagaggaagatattaat
+---
+- fragment with adapters - primary strand
+  gatccttt..
+- fragment with adapters - complement strand
+  ....gaaaat
+---
+- fragment with adapters - primary strand
+  gatctggtaaaataaaagatttttttcaatatctt..
+- fragment with adapters - complement strand
+  ....accattttattttctaaaaaaagttatagaaat
+---
+- fragment with adapters - primary strand
+  gatctaagaagacccgtttccttgtccgctttgcaggaagaagagt..
+- fragment with adapters - complement strand
+  ....attcttctgggcaaaggaacaggcgaaacgtccttcttctcaat
+---
+- fragment with adapters - primary strand
+  gatctttcagatatggtcatcatgaatattgatggaaaaccaacaaaatatgatcaacaaagtgagcaacctgtcaataggtataagggtt..
+- fragment with adapters - complement strand
+  ....aaagtctataccagtagtacttataactaccttttggttgttttatactagttgtttcactcgttggacagttatccatattcccaaat
+---
+- fragment with adapters - primary strand
+  gatctttcat..
+- fragment with adapters - complement strand
+  ....aaagtaat
+---
+- fragment with adapters - primary strand
+  gatctcgaacaccgacggctggatttcgctacggttatcgtggtgatgcttcagtgactgaacaactgcaacaaatacaaccaaattggtctgcgccaaatagtggaaaccagcaacagcaacaacagaaggttctt..
+- fragment with adapters - complement strand
+  ....agcttgtggctgccgacctaaagcgatgccaatagcaccactacgaagtcactgacttgttgacgttgtttatgttggtttaaccagacgcggtttatcacctttggtcgttgtcgttgttgtcttccaagaaat
+---
+- fragment with adapters - primary strand
+  gatccacaaaaagatattcttgctgatttgaaaagtatagaaactaaataatgatacatatatttatctttttcagaatatt..
+- fragment with adapters - complement strand
+  ....gtgtttttctataagaacgactaaacttttcatatctttgatttattactatgtatataaatagaaaaagtcttataaat
+---
+- fragment with adapters - primary strand
+  gatctccgtcatctccttgtttatgcttggaaaatatatattatagcggtatttat..
+- fragment with adapters - complement strand
+  ....aggcagtagaggaacaaatacgaaccttttatatataatatcgccataaataat
+---
+- fragment with adapters - primary strand
+  gatcttgaaggaat..
+- fragment with adapters - complement strand
+  ....aacttccttaat
+---
+- fragment with adapters - primary strand
+  gatcttccctagcgtaaaatttt..
+- fragment with adapters - complement strand
+  ....aagggatcgcattttaaaaat
+---
+- fragment with adapters - primary strand
+  gatcctccctcaaagcttttattagagataataaactaactaccattttt..
+- fragment with adapters - complement strand
+  ....gagggagtttcgaaaataatctctattatttgattgatggtaaaaaat
+---
+- fragment with adapters - primary strand
+  gatctttcagacgagtttttt..
+- fragment with adapters - complement strand
+  ....aaagtctgctcaaaaaaat
+---
+- fragment with adapters - primary strand
+  gatccagtaccagagaaggttcagaccaagaaaggtatatttttttattgtttttgcatttctgaatgggtttttatattggaatatccaagtattgttttgtttgtagacatgcaagaaaaccttgtaaatgtgaat..
+- fragment with adapters - complement strand
+  ....gtcatggtctcttccaagtctggttctttccatataaaaaaataacaaaaacgtaaagacttacccaaaaatataaccttataggttcataacaaaacaaacatctgtacgttcttttggaacatttacacttaat
+---
+- fragment with adapters - primary strand
+  gatccaaatttgagcctt..
+- fragment with adapters - complement strand
+  ....gtttaaactcggaaat
+---
+- fragment with adapters - primary strand
+  gatccgcaaatttct..
+- fragment with adapters - complement strand
+  ....gcgtttaaagaat
+---
+- fragment with adapters - primary strand
+  gatcttattcacaatcaatggagctatgctcaaaactacgctagaggctctgttgttgatgtaat..
+- fragment with adapters - complement strand
+  ....aataagtgttagttacctcgatacgagttttgatgcgatctccgagacaacaactacattaat
+---
+- fragment with adapters - primary strand
+  gatctagaacttcttcaatgggaaatttgtcttcctcagtttctactacctcttctctacgcagggcggcggttgctaactctgcagcaatggtttgaaaaaaattttataaaaaatataggaggtgacattttgtcccattataaggacttttttcattacattctctgtctaaccaaggaaggaaaaaatagtattactaattctttgtatggataaaaagcaaccaaatgtagaaataaatttatagggaaggatgggagaaaaatatgagagagtgctgtctttttcctct..
+- fragment with adapters - complement strand
+  ....atcttgaagaagttaccctttaaacagaaggagtcaaagatgatggagaagagatgcgtcccgccgccaacgattgagacgtcgttaccaaactttttttaaaatattttttatatcctccactgtaaaacagggtaatattcctgaaaaaagtaatgtaagagacagattggttccttccttttttatcataatgattaagaaacatacctatttttcgttggtttacatctttatttaaatatcccttcctaccctctttttatactctctcacgacagaaaaaggagaat
+---
+- fragment with adapters - primary strand
+  gatctcaaagattgtaaattataggtttttgactatttattgtt..
+- fragment with adapters - complement strand
+  ....agtttctaacatttaatatccaaaaactgataaataacaaat
+---
+- fragment with adapters - primary strand
+  gatccaacagccttggaaggcaaaaaatagatttatcaactgatttgtcaatttatgctcaaataaaacatgcaagacaaacttttactagtcaaaaacatgtttcaagtgaagagagtttggtgaataaaaggttatgattttataaaaat..
+- fragment with adapters - complement strand
+  ....gttgtcggaaccttccgttttttatctaaatagttgactaaacagttaaatacgagtttattttgtacgttctgtttgaaaatgatcagtttttgtacaaagttcacttctctcaaaccacttattttccaatactaaaatatttttaat
+---
+- fragment with adapters - primary strand
+  gatctaccttgtcctcccgtctagatttttctgctat..
+- fragment with adapters - complement strand
+  ....atggaacaggagggcagatctaaaaagacgataat
+---
+- fragment with adapters - primary strand
+  gatcttcctaattttttgtatatgtattgattagatttcagtctcaaaatattgtttctggagtcatacattatgtcgtttatagctaaatgtattagtgttattttccatagctaatttagtgatttagcgct..
+- fragment with adapters - complement strand
+  ....aaggattaaaaaacatatacataactaatctaaagtcagagttttataacaaagacctcagtatgtaatacagcaaatatcgatttacataatcacaataaaaggtatcgattaaatcactaaatcgcgaat
+---
+- fragment with adapters - primary strand
+  gatccaaat..
+- fragment with adapters - complement strand
+  ....gtttaat
+---
+- fragment with adapters - primary strand
+  gatccat..
+- fragment with adapters - complement strand
+  ....gtaat
+---
+- fragment with adapters - primary strand
+  gatctgcaat..
+- fragment with adapters - complement strand
+  ....acgttaat
+---
+- fragment with adapters - primary strand
+  gatcccgaaccctt..
+- fragment with adapters - complement strand
+  ....ggcttgggaaat
+---
+- fragment with adapters - primary strand
+  gatctcgagttgattcaagcaactatatgcctt..
+- fragment with adapters - complement strand
+  ....agctcaactaagttcgttgatatacggaaat
+---
+- fragment with adapters - primary strand
+  gatccaacttgagcaacttcgtaagcaagctttagcatataggactgttcaatacaatgttcgctcctggcttcaacttcgtacatggtcttggtttcgactttacaggtctttctcatctctcgtttatcgttagttctcgactttagcaaagttcgcccgctttgtgtgaaaggaaaggcacaacaagctatagaaaaagttgaggaacaact..
+- fragment with adapters - complement strand
+  ....gttgaactcgttgaagcattcgttcgaaatcgtatatcctgacaagttatgttacaagcgaggaccgaagttgaagcatgtaccagaaccaaagctgaaatgtccagaaagagtagagagcaaatagcaatcaagagctgaaatcgtttcaagcgggcgaaacacactttcctttccgtgttgttcgatatctttttcaactccttgttgaat
+---
+- fragment with adapters - primary strand
+  gatctgctagagatggcgcattcctttgagttttctgtcactgatcatttgatcaaggaattgagacgaaaatatcaggt..
+- fragment with adapters - complement strand
+  ....acgatctctaccgcgtaaggaaactcaaaagacagtgactagtaaactagttccttaactctgcttttatagtccaat
+---
+- fragment with adapters - primary strand
+  gatccacttgttgcactcaaggttttt..
+- fragment with adapters - complement strand
+  ....gtgaacaacgtgagttccaaaaaat
+---
+- fragment with adapters - primary strand
+  gatcttcacaattctctatgggctctgttcaaggtgctccaccattttctcaaccttctctacaggttttctt..
+- fragment with adapters - complement strand
+  ....aagtgttaagagatacccgagacaagttccacgaggtggtaaaagagttggaagagatgtccaaaagaaat
+---
+- fragment with adapters - primary strand
+  gatct..
+- fragment with adapters - complement strand
+  ....aat
+---
+- fragment with adapters - primary strand
+  gatctttggcagataaatatccaacggtttt..
+- fragment with adapters - complement strand
+  ....aaaccgtctatttataggttgccaaaaat
+---
+- fragment with adapters - primary strand
+  gatccaggaaatccttttgattgcattgacattgatgaatgtaaaggaaacaatacatgttctcaaatgtgtt..
+- fragment with adapters - complement strand
+  ....gtcctttaggaaaactaacgtaactgtaactacttacatttcctttgttatgtacaagagtttacacaaat
+---
+- fragment with adapters - primary strand
+  gatctctttttagcttgggatcatcctattgtttcgaggttctgcttcatattatctt..
+- fragment with adapters - complement strand
+  ....agaaaaatcgaaccctagtaggataacaaagctccaagacgaagtataatagaaat
+---
+- fragment with adapters - primary strand
+  gatctt..
+- fragment with adapters - complement strand
+  ....aaat
+---
+- fragment with adapters - primary strand
+  gatctaaaaatcatgtaaaaacggtaagaaaaattattttctgaattttt..
+- fragment with adapters - complement strand
+  ....atttttagtacatttttgccattctttttaataaaagacttaaaaaat
+---
+- fragment with adapters - primary strand
+  gatcttctgctggtttgattctt..
+- fragment with adapters - complement strand
+  ....aagacgaccaaactaagaaat
+---
+- fragment with adapters - primary strand
+  gatctctaaatgttgtagcacaaactcttatggatgcttgttctacgcatgaacaacatt..
+- fragment with adapters - complement strand
+  ....agatttacaacatcgtgtttgagaatacctacgaacaagatgcgtacttgttgtaaat
+---
+- fragment with adapters - primary strand
+  gatctttatgaaagtgcgatcctttacaaacaaacgatattctaaaatattgagaacatagtaagataaaaacctgacgtttacttcaagggcataaactctaaggggaacctttctttcaaatactgaatttttcatt..
+- fragment with adapters - complement strand
+  ....aaatactttcacgctaggaaatgtttgtttgctataagattttataactcttgtatcattctatttttggactgcaaatgaagttcccgtatttgagattccccttggaaagaaagtttatgacttaaaaagtaaat
+---
+- fragment with adapters - primary strand
+  gatccaatacctcaacaatattctcaatcgtcttcttctattattcaacaacaaaatgtacaacaaactcaaaaaatacctcaacaagttactt..
+- fragment with adapters - complement strand
+  ....gttatggagttgttataagagttagcagaagaagataataagttgttgttttacatgttgtttgagttttttatggagttgttcaatgaaat
+---
+- fragment with adapters - primary strand
+  gatcctctcacagattgggacaatctctacaatttgaaaaaccaatctttattgagaaaggattgccaaaaat..
+- fragment with adapters - complement strand
+  ....gagagtgtctaaccctgttagagatgttaaactttttggttagaaataactctttcctaacggtttttaat
+---
+- fragment with adapters - primary strand
+  gatctgtaagacattttggaatttttgttgggaaaatttt..
+- fragment with adapters - complement strand
+  ....acattctgtaaaaccttaaaaacaacccttttaaaaat
+---
+- fragment with adapters - primary strand
+  gatccaataacatttctatccttcggattaggccctagaaactgcattggtatgcgtttcgctgaattccaaatgcaagtagtcattgctcttattatgcggcgttt..
+- fragment with adapters - complement strand
+  ....gttattgtaaagataggaagcctaatccgggatctttgacgtaaccatacgcaaagcgacttaaggtttacgttcatcagtaacgagaataatacgccgcaaaat
+---
+- fragment with adapters - primary strand
+  gatcccat..
+- fragment with adapters - complement strand
+  ....ggtaat
+---
+- fragment with adapters - primary strand
+  gatccacctttttcaaggggggaggtgttaggtatgtgttagagaagggctttgtataaaagcccttagtcaagtttagtataaaagccagtgtcagcgtcagtctattcggatcatactagcccggctagtccctgatctccttcgtctgctccttccccatctccaccatcacttctattgttattatctttgtgataaagtgttatgctgcacatcgacttattgggacgtaacataaactaaaaaatttctaggcacaagaaggccgtacaacaataattgttgcccatcgtctgtcaacaattcgagacgttgatcaaattttagtctt..
+- fragment with adapters - complement strand
+  ....gtggaaaaagttcccccctccacaatccatacacaatctcttcccgaaacatattttcgggaatcagttcaaatcatattttcggtcacagtcgcagtcagataagcctagtatgatcgggccgatcagggactagaggaagcagacgaggaaggggtagaggtggtagtgaagataacaataatagaaacactatttcacaatacgacgtgtagctgaataaccctgcattgtatttgattttttaaagatccgtgttcttccggcatgttgttattaacaacgggtagcagacagttgttaagctctgcaactagtttaaaatcagaaat
+---
+- fragment with adapters - primary strand
+  gatctgattcatcat..
+- fragment with adapters - complement strand
+  ....actaagtagtaat
+---
+- fragment with adapters - primary strand
+  gatctatatactatctcgctttttgtctaactatatttccggaaaattttccggaagttgtgtattt..
+- fragment with adapters - complement strand
+  ....atatatgatagagcgaaaaacagattgatataaaggccttttaaaaggccttcaacacataaaat
+---
+- fragment with adapters - primary strand
+  gatccgaccaactcaaaccct..
+- fragment with adapters - complement strand
+  ....gctggttgagtttgggaat
+---
+- fragment with adapters - primary strand
+  gatctaacaataattattgtgattattctgaaggtaactttt..
+- fragment with adapters - complement strand
+  ....attgttattaataacactaataagacttccattgaaaaat
+---
+- fragment with adapters - primary strand
+  gatctcttctctatggactttttagacaaggcttgaaatgtgaagtttgcggcgt..
+- fragment with adapters - complement strand
+  ....agaagagatacctgaaaaatctgttccgaactttacacttcaaacgccgcaat
+---
+- fragment with adapters - primary strand
+  gatctgtaattagaggatttttagcaataaataaaagaaaacaaccaacaaatgaacgtcttccaactgcctcaacttgttt..
+- fragment with adapters - complement strand
+  ....acattaatctcctaaaaatcgttatttattttcttttgttggttgtttacttgcagaaggttgacggagttgaacaaaat
+---
+- fragment with adapters - primary strand
+  gatccgatgggaggttccactaaaattctctttcctcagtcatacctcttggattttccataaaactcttctcccacttttt..
+- fragment with adapters - complement strand
+  ....gctaccctccaaggtgattttaagagaaaggagtcagtatggagaacctaaaaggtattttgagaagagggtgaaaaaat
+---
+- fragment with adapters - primary strand
+  gatctcgtgtaaggccagatgtt..
+- fragment with adapters - complement strand
+  ....agcacattccggtctacaaat
+---
+- fragment with adapters - primary strand
+  gatcctaattttggtactggtgctgtaaaaattactcctgctcatgattataatgactacgaagttggtgttcgccattctcttccatttat..
+- fragment with adapters - complement strand
+  ....gattaaaaccatgaccacgacatttttaatgaggacgagtactaatattactgatgcttcaaccacaagcggtaagagaaggtaaataat
+---
+- fragment with adapters - primary strand
+  gatctgatgcgcagtggactggtatatttt..
+- fragment with adapters - complement strand
+  ....actacgcgtcacctgaccatataaaaat
+---
+- fragment with adapters - primary strand
+  gatccagatgagaatatctggaagattcagagtagatggactagtggttcaggacgttttttgttggaaaagagagatcaggtgcctgggaaatattttgacaaggtacccaaatat..
+- fragment with adapters - complement strand
+  ....gtctactcttatagaccttctaagtctcatctacctgatcaccaagtcctgcaaaaaacaaccttttctctctagtccacggaccctttataaaactgttccatgggtttataat
+---
+- fragment with adapters - primary strand
+  gatctcttctatgcgagttggaatggtgttcggtggaatgcaactgcttgaaccaatacttgctgtgatgacaaaggcggacactgaaaaaatcaacaagagtgcaccccaaggatggcgaatcgaacaggacaataatggtaaattgtgagtttatttatttgaactttt..
+- fragment with adapters - complement strand
+  ....agaagatacgctcaaccttaccacaagccaccttacgttgacgaacttggttatgaacgacactactgtttccgcctgtgacttttttagttgttctcacgtggggttcctaccgcttagcttgtcctgttattaccatttaacactcaaataaataaacttgaaaaat
+---
+- fragment with adapters - primary strand
+  gatcctagaggaatttggactttgttggttgaatcgatttctactaatatgaacattggaggtttgttttatt..
+- fragment with adapters - complement strand
+  ....gatctccttaaacctgaaacaaccaacttagctaaagatgattatacttgtaacctccaaacaaaataaat
+---
+- fragment with adapters - primary strand
+  gatccagaaattccagt..
+- fragment with adapters - complement strand
+  ....gtctttaaggtcaat
+---
+- fragment with adapters - primary strand
+  gatctttgtttttataaataactaaaatttttccttctaaagacctaacaaagaagcatcataatct..
+- fragment with adapters - complement strand
+  ....aaacaaaaatatttattgattttaaaaaggaagatttctggattgtttcttcgtagtattagaat
+---
+- fragment with adapters - primary strand
+  gatcctgttctgactgcttaccattcttggattttgggaaaaatgtaaatttttt..
+- fragment with adapters - complement strand
+  ....gacaagactgacgaatggtaagaacctaaaaccctttttacatttaaaaaaat
+---
+- fragment with adapters - primary strand
+  gatctatgagaggttttcctccatctgat..
+- fragment with adapters - complement strand
+  ....atactctccaaaaggaggtagactaat
+---
+- fragment with adapters - primary strand
+  gatctcggcactggtgtggctatagttttgaaacaaacagaaaaatcaaaaattcctcaaatatt..
+- fragment with adapters - complement strand
+  ....agccgtgaccacaccgatatcaaaactttgtttgtctttttagtttttaaggagtttataaat
+---
+- fragment with adapters - primary strand
+  gatctatgtttgagatatcaaaaatt..
+- fragment with adapters - complement strand
+  ....atacaaactctatagtttttaaat
+---
+- fragment with adapters - primary strand
+  gatcctcgaggatttgccatgaaatattatacagatgaaggcaattttgatcttgttggaaataatctacctgttttcttcataagagatgctattcaattcccagcttttgttcacacacaaaaat..
+- fragment with adapters - complement strand
+  ....gagctcctaaacggtactttataatatgtctacttccgttaaaactagaacaacctttattagatggacaaaagaagtattctctacgataagttaagggtcgaaaacaagtgtgtgtttttaat
+---
+- fragment with adapters - primary strand
+  gatctttattactgaaaaatggttctgatgcacataaaggaacatatacatgtaaggctaaaagtgctgctggaaatgctttacaagatgt..
+- fragment with adapters - complement strand
+  ....aaataatgactttttaccaagactacgtgtatttccttgtatatgtacattccgattttcacgacgacctttacgaaatgttctacaat
+---
+- fragment with adapters - primary strand
+  gatccttgggctgaggaccgaagggaggcat..
+- fragment with adapters - complement strand
+  ....gaacccgactcctggcttccctccgtaat
+---
+- fragment with adapters - primary strand
+  gatcttcctgacgatttcgtacctattacaatttccgaacaattcctcagacacccaagtataggattagggaacagtggatgttacacatgccgagccagtcatcaaaatgcttttataacgaaaggaatttgtatagaaggtgaatagaattttcaaaaaattatcaaaaaaattcaattttcaagtcattgaaccctccggacttgcaactgttggcattctaggtggccaacatcaatggttccctcttggacaccctgtagaacttgtttgtgcagctagtgtatcttctctcatagagaaagtggagtggagtaaagctggtgggggggaactgcctgcacatgcagaagtggataaaggaggtgttctacgatttgatgcatt..
+- fragment with adapters - complement strand
+  ....aaggactgctaaagcatggataatgttaaaggcttgttaaggagtctgtgggttcatatcctaatcccttgtcacctacaatgtgtacggctcggtcagtagttttacgaaaatattgctttccttaaacatatcttccacttatcttaaaagttttttaatagtttttttaagttaaaagttcagtaacttgggaggcctgaacgttgacaaccgtaagatccaccggttgtagttaccaagggagaacctgtgggacatcttgaacaaacacgtcgatcacatagaagagagtatctctttcacctcacctcatttcgaccacccccccttgacggacgtgtacgtcttcacctatttcctccacaagatgctaaactacgtaaat
+---
+- fragment with adapters - primary strand
+  gatcttccagtttgactcattgtaaacctcgtagtaacttgattgtaaactttctcatataaatggagtagagggaaagtaaccacacat..
+- fragment with adapters - complement strand
+  ....aaggtcaaactgagtaacatttggagcatcattgaactaacatttgaaagagtatatttacctcatctccctttcattggtgtgtaat
+---
+- fragment with adapters - primary strand
+  gatctaatcgcgcaaataataacagaagaaaacgtcaagctattgttctctcccctatcagttttacctattttgttggggtaaaaagat..
+- fragment with adapters - complement strand
+  ....attagcgcgtttattattgtcttcttttgcagttcgataacaagagaggggatagtcaaaatggataaaacaaccccatttttctaat
+---
+- fragment with adapters - primary strand
+  gatcttcccatgcactaaaaattttttt..
+- fragment with adapters - complement strand
+  ....aagggtacgtgatttttaaaaaaaat
+---
+- fragment with adapters - primary strand
+  gatctcgatcctttgacaatct..
+- fragment with adapters - complement strand
+  ....agctaggaaactgttagaat
+---
+- fragment with adapters - primary strand
+  gatcttcgaacttttccgtttgatacacaaaattggtgagaat..
+- fragment with adapters - complement strand
+  ....aagcttgaaaaggcaaactatgtgttttaaccactcttaat
+---
+- fragment with adapters - primary strand
+  gatct..
+- fragment with adapters - complement strand
+  ....aat
+---
+- fragment with adapters - primary strand
+  gatcccaacaaagagaagtccaccaagatacccccaagttacttatgttattgaatttcgtgaattgcctgataaagactggcaattacttgactacaatattccagaacccgtctgcaaagttcgaaatttagaattaggcaaaagttatcagttccgcgtccgtgctgaaaatatttatggaattagcgatccttctcccccatcgcctccatcaatgt..
+- fragment with adapters - complement strand
+  ....ggttgtttctcttcaggtggttctatgggggttcaatgaatacaataacttaaagcacttaacggactatttctgaccgttaatgaactgatgttataaggtcttgggcagacgtttcaagctttaaatcttaatccgttttcaatagtcaaggcgcaggcacgacttttataaataccttaatcgctaggaagagggggtagcggaggtagttacaat
+---
+- fragment with adapters - primary strand
+  gatctaatttgtctgctaggaaagcggtttgttctcaattcactcaaattatttacacatttttcctt..
+- fragment with adapters - complement strand
+  ....attaaacagacgatcctttcgccaaacaagagttaagtgagtttaataaatgtgtaaaaaggaaat
+---
+- fragment with adapters - primary strand
+  gatccaggcaaaatacagactttgggagaaaaagaatgggatcgtctacaacaggccaacgttctagctaatattcaacaggt..
+- fragment with adapters - complement strand
+  ....gtccgttttatgtctgaaaccctctttttcttaccctagcagatgttgtccggttgcaagatcgattataagttgtccaat
+---
+- fragment with adapters - primary strand
+  gatcctttttccttgtgggatcaattttttctgaccatcctt..
+- fragment with adapters - complement strand
+  ....gaaaaaggaacaccctagttaaaaaagactggtaggaaat
+---
+- fragment with adapters - primary strand
+  gatctccttcgaatgtcgaagt..
+- fragment with adapters - complement strand
+  ....aggaagcttacagcttcaat
+---
+- fragment with adapters - primary strand
+  gatctcgttgattttgttaccattcgacgcagctcgt..
+- fragment with adapters - complement strand
+  ....agcaactaaaacaatggtaagctgcgtcgagcaat
+---
+- fragment with adapters - primary strand
+  gatctgtctcttcgattatagactttttattt..
+- fragment with adapters - complement strand
+  ....acagagaagctaatatctgaaaaataaaat
+---
+- fragment with adapters - primary strand
+  gatctaatttacctataaactacaaaggattagaagaaaataattcgacaaaacaagaaaataaaaatcgaggaagcaaaagaaaacatccaagatgggcagaaggaaatgaagaaatagatggagagaatgcaaaagaattagtttttgatacaattccgtttccaacaaatcaacctacacatactggatatt..
+- fragment with adapters - complement strand
+  ....attaaatggatatttgatgtttcctaatcttcttttattaagctgttttgttcttttatttttagctccttcgttttcttttgtaggttctacccgtcttcctttacttctttatctacctctcttacgttttcttaatcaaaaactatgttaaggcaaaggttgtttagttggatgtgtatgacctataaat
+---
+- fragment with adapters - primary strand
+  gatctgctgatgctgccagactcgccgaggagttgcgccaggaacaagaacactcacaacatgtggaccgattgcgcaagggtcttgaactccaaatcaaggagatgcaggttcgtcttgatgaggcagaggcagccgcgct..
+- fragment with adapters - complement strand
+  ....acgactacgacggtctgagcggctcctcaacgcggtccttgttcttgtgagtgttgtacacctggctaacgcgttcccagaacttgaggtttagttcctctacgtccaagcagaactactccgtctccgtcggcgcgaat
+---
+- fragment with adapters - primary strand
+  gatct..
+- fragment with adapters - complement strand
+  ....aat
+---
+- fragment with adapters - primary strand
+  gatccaaataaaatctcattttttaggttgttggcctcgaatcagctattcaaatgggacaaatcaaagcaggtgtaagacaagcaagaagactagctcaatgttcaacagttgttattcaaactcataaaactctacctatgcaaattgatggagaaccatggactcaaccgcctgcaattattcaagttattcataaaaatcaaacaccaatgcttattggtttgtaaaaaaaaatattttttttctaataaaaaataatt..
+- fragment with adapters - complement strand
+  ....gtttattttagagtaaaaaatccaacaaccggagcttagtcgataagtttaccctgtttagtttcgtccacattctgttcgttcttctgatcgagttacaagttgtcaacaataagtttgagtattttgagatggatacgtttaactacctcttggtacctgagttggcggacgttaataagttcaataagtatttttagtttgtggttacgaataaccaaacatttttttttataaaaaaaagattattttttattaaat
+---
+- fragment with adapters - primary strand
+  gatccatttttcctggatt..
+- fragment with adapters - complement strand
+  ....gtaaaaaggacctaaat
+---
+- fragment with adapters - primary strand
+  gatctcgtt..
+- fragment with adapters - complement strand
+  ....agcaaat
+---
+- fragment with adapters - primary strand
+  gatcctgcattgatgcgacctggacgtttcgatagacagattttcatccctgttccggatatcaagggtcgagcatctattttccgagttcatt..
+- fragment with adapters - complement strand
+  ....gacgtaactacgctggacctgcaaagctatctgtctaaaagtagggacaaggcctatagttcccagctcgtagataaaaggctcaagtaaat
+---
+- fragment with adapters - primary strand
+  gatcttcgaataactaccaaaactttgtctttatggtcatacatggactgccggaaggatgattatacaaatccattttataatccagtaattt..
+- fragment with adapters - complement strand
+  ....aagcttattgatggttttgaaacagaaataccagtatgtacctgacggccttcctactaatatgtttaggtaaaatattaggtcattaaaat
+---
+- fragment with adapters - primary strand
+  gatccgtctgaaactgctacctctgagtattcaaggtgaatgtgaatagt..
+- fragment with adapters - complement strand
+  ....gcagactttgacgatggagactcataagttccacttacacttatcaat
+---
+- fragment with adapters - primary strand
+  gatctgcttcaacaatgccaaacccaatcattttttcaattaccaacagaaagttggttgtatatttggcttcttacaataaaagatttttacaaacctatacatactgtgagtttagaaaaatttt..
+- fragment with adapters - complement strand
+  ....acgaagttgttacggtttgggttagtaaaaaagttaatggttgtctttcaaccaacatataaaccgaagaatgttattttctaaaaatgtttggatatgtatgacactcaaatctttttaaaaat
+---
+- fragment with adapters - primary strand
+  gatccgtaaccatgaaaactttatgaattttttggaactagtgagacatcacgttcgcgaccgattttcattgaaaatatatttctttagtctacgctct..
+- fragment with adapters - complement strand
+  ....gcattggtacttttgaaatacttaaaaaaccttgatcactctgtagtgcaagcgctggctaaaagtaacttttatataaagaaatcagatgcgagaat
+---
+- fragment with adapters - primary strand
+  gatcttctgaacaataaaatttatagattttcgtcaacggatatactggcaatgaagcttcagaatt..
+- fragment with adapters - complement strand
+  ....aagacttgttattttaaatatctaaaagcagttgcctatatgaccgttacttcgaagtcttaaat
+---
+- fragment with adapters - primary strand
+  gatcctgatcatgtaccgcctattgatgtttgtt..
+- fragment with adapters - complement strand
+  ....gactagtacatggcggataactacaaacaaat
+---
+- fragment with adapters - primary strand
+  gatccttcaggttttttt..
+- fragment with adapters - complement strand
+  ....gaagtccaaaaaaaat
+---
+- fragment with adapters - primary strand
+  gatctgcaaagtaattt..
+- fragment with adapters - complement strand
+  ....acgtttcattaaaat
+---
+- fragment with adapters - primary strand
+  gatctgcgtaaatttttacaatttctattcaat..
+- fragment with adapters - complement strand
+  ....acgcatttaaaaatgttaaagataagttaat
+---
+- fragment with adapters - primary strand
+  gatcttggtacaataaaaagaaaaatggatgctcgccaatatgtcaatccagacgagttcaaaagtgacattatgctcatgtgtaacaattgttttacttacaatcctgatgggcaaatggtcaataaacttggcaaacagcttttggttcgagcttttcaggaggagctcgagttatt..
+- fragment with adapters - complement strand
+  ....aaccatgttatttttctttttacctacgagcggttatacagttaggtctgctcaagttttcactgtaatacgagtacacattgttaacaaaatgaatgttaggactacccgtttaccagttatttgaaccgtttgtcgaaaaccaagctcgaaaagtcctcctcgagctcaataaat
+---
+- fragment with adapters - primary strand
+  gatccagacctttttaggtaaaaaatttcaaaaaaattttt..
+- fragment with adapters - complement strand
+  ....gtctggaaaaatccattttttaaagtttttttaaaaaat
+---
+- fragment with adapters - primary strand
+  gatcctgttactatggtaaggttt..
+- fragment with adapters - complement strand
+  ....gacaatgataccattccaaaat
+---
+- fragment with adapters - primary strand
+  gatctttataaggtttttttt..
+- fragment with adapters - complement strand
+  ....aaatattccaaaaaaaaat
+---
+- fragment with adapters - primary strand
+  gatctgctggtgat..
+- fragment with adapters - complement strand
+  ....acgaccactaat
+---
+- fragment with adapters - primary strand
+  gatctttactggctaaaggacattcacatgacaatgctcaacttt..
+- fragment with adapters - complement strand
+  ....aaatgaccgatttcctgtaagtgtactgttacgagttgaaaat
+---
+- fragment with adapters - primary strand
+  gatcttcggatcaaaaaatatctaataataaaagtcaagtagtccgtt..
+- fragment with adapters - complement strand
+  ....aagcctagttttttatagattattattttcagttcatcaggcaaat
+---
+- fragment with adapters - primary strand
+  gatctaactacttcaaatgttttggttagaaaaatggtggggtattagtttat..
+- fragment with adapters - complement strand
+  ....attgatgaagtttacaaaaccaatctttttaccaccccataatcaaataat
+---
+- fragment with adapters - primary strand
+  gatccattacaacaggttttttttatttttttttatcttttctaattttt..
+- fragment with adapters - complement strand
+  ....gtaatgttgtccaaaaaaaataaaaaaaaatagaaaagattaaaaaat
+---
+- fragment with adapters - primary strand
+  gatctactgaggctcgtgt..
+- fragment with adapters - complement strand
+  ....atgactccgagcacaat
+---
+- fragment with adapters - primary strand
+  gatctattgttatgggtcagaatagtgctaattgtattattgaggagtgtgaagagaagcctgtgagagctttctagaattattttattttttgaaaattctaaaaggattccccacttcctccgt..
+- fragment with adapters - complement strand
+  ....ataacaatacccagtcttatcacgattaacataataactcctcacacttctcttcggacactctcgaaagatcttaataaaataaaaaacttttaagattttcctaaggggtgaaggaggcaat
+---
+- fragment with adapters - primary strand
+  gatctcattttggaagtaataataggcgttctaccggccgccgtcgagaagaggagagtcgtaaccaacgtcataaaacgaatgatgctcgtgacaaatcgcgacgaagtccagccgatggaaaaaacagttcaacagacaaagaagagcttttacgttttatgcgtcgcaaagaaatagaacatcgcaaaaaggaggaggagttgcgtctggaacgtgagcgtgaaaatttacgttatgagcgagaaaaattggagcgtgaaaaactggaactcgagacttatagacttcaggcacaactagctcaggcaacgcaattgcaatttgctgcagttacgggtttaccccagagtggcgccgctgcctcgaatccaataggtggttcaggcgattcttccgcatctgttctccactttggagacagtggatt..
+- fragment with adapters - complement strand
+  ....agtaaaaccttcattattatccgcaagatggccggcggcagctcttctcctctcagcattggttgcagtattttgcttactacgagcactgtttagcgctgcttcaggtcggctaccttttttgtcaagttgtctgtttcttctcgaaaatgcaaaatacgcagcgtttctttatcttgtagcgtttttcctcctcctcaacgcagaccttgcactcgcacttttaaatgcaatactcgctctttttaacctcgcactttttgaccttgagctctgaatatctgaagtccgtgttgatcgagtccgttgcgttaacgttaaacgacgtcaatgcccaaatggggtctcaccgcggcgacggagcttaggttatccaccaagtccgctaagaaggcgtagacaagaggtgaaacctctgtcacctaaat
+---
+- fragment with adapters - primary strand
+  gatcttgaacctttgttgatgtatttacgtgaaagacatgaaagatttttacttgaaaggaaagctttgt..
+- fragment with adapters - complement strand
+  ....aacttggaaacaactacataaatgcactttctgtactttctaaaaatgaactttcctttcgaaacaat
+---
+- fragment with adapters - primary strand
+  gatctgattgtacctgcttgggggcattttacaaaaattat..
+- fragment with adapters - complement strand
+  ....actaacatggacgaacccccgtaaaatgtttttaataat
+---
+- fragment with adapters - primary strand
+  gatctgctggacaaagtttttgtgcttttttggcaaaaggggtcactgtaaaattggtatgattttggttatttttcagatgatattt..
+- fragment with adapters - complement strand
+  ....acgacctgtttcaaaaacacgaaaaaaccgttttccccagtgacattttaaccatactaaaaccaataaaaagtctactataaaat
+---
+- fragment with adapters - primary strand
+  gatcccgaaaatgcaatgacacaaattcgcgagtgccttcatt..
+- fragment with adapters - complement strand
+  ....ggcttttacgttactgtgtttaagcgctcacggaagtaaat
+---
+- fragment with adapters - primary strand
+  gatctttttataatcttacttcttaggctgattccaccatccaagccactatatatgtgtctacgcaagataagttgtttcttggaggaagcgacggttcaataatggtttttct..
+- fragment with adapters - complement strand
+  ....aaaaatattagaatgaagaatccgactaaggtggtaggttcggtgatatatacacagatgcgttctattcaacaaagaacctccttcgctgccaagttattaccaaaaagaat
+---
+- fragment with adapters - primary strand
+  gatccaagagagcaactatgattggtactccatattggtaat..
+- fragment with adapters - complement strand
+  ....gttctctcgttgatactaaccatgaggtataaccattaat
+---
+- fragment with adapters - primary strand
+  gatctgggatcaaatgtcacaattttagattttacagtaaaattatt..
+- fragment with adapters - complement strand
+  ....accctagtttacagtgttaaaatctaaaatgtcattttaataaat
+---
+- fragment with adapters - primary strand
+  gatccttatgaactttaccctcttgtagatacaggacataaaggtgttgtggcccgtgtactagctaaagttaggcgtattttggtggaacatttggattctattgttgatgttcctgcacaattggggcatttttctaaagctgt..
+- fragment with adapters - complement strand
+  ....gaatacttgaaatgggagaacatctatgtcctgtatttccacaacaccgggcacatgatcgatttcaatccgcataaaaccaccttgtaaacctaagataacaactacaaggacgtgttaaccccgtaaaaagatttcgacaat
+---
+- fragment with adapters - primary strand
+  gatccacttcgttctaaagtcactgccttcgatacattggctggaactgccataacaagcgtataacataatcaatgaatt..
+- fragment with adapters - complement strand
+  ....gtgaagcaagatttcagtgacggaagctatgtaaccgaccttgacggtattgttcgcatattgtattagttacttaaat
+---
+- fragment with adapters - primary strand
+  gatccttcat..
+- fragment with adapters - complement strand
+  ....gaagtaat
+---
+- fragment with adapters - primary strand
+  gatctttttagtggttttggagtt..
+- fragment with adapters - complement strand
+  ....aaaaatcaccaaaacctcaaat
+---
+- fragment with adapters - primary strand
+  gatccaattttttcgatattttgtgggacagtcacacttttcgagacgtaaagctgtcttccagagacatcaaatcctagggctat..
+- fragment with adapters - complement strand
+  ....gttaaaaaagctataaaacaccctgtcagtgtgaaaagctctgcatttcgacagaaggtctctgtagtttaggatcccgataat
+---
+- fragment with adapters - primary strand
+  gatctaaatt..
+- fragment with adapters - complement strand
+  ....atttaaat
+---
+- fragment with adapters - primary strand
+  gatctttctcatgaagttcgagaaaatattggaaatgagagaacaaaatatcttaccgttcttttccaaataattgttgaaagacacaacacaagctttggagttcaaaaatatggaaatatgt..
+- fragment with adapters - complement strand
+  ....aaagagtacttcaagctcttttataacctttactctcttgttttatagaatggcaagaaaaggtttattaacaactttctgtgttgtgttcgaaacctcaagtttttatacctttatacaat
+---
+- fragment with adapters - primary strand
+  gatccaatcatctcctttgt..
+- fragment with adapters - complement strand
+  ....gttagtagaggaaacaat
+---
+- fragment with adapters - primary strand
+  gatctcaagat..
+- fragment with adapters - complement strand
+  ....agttctaat
+---
+- fragment with adapters - primary strand
+  gatctttccacagaaagcagtttgtgaagaaaattcattacgtttggaatggtcagagcaggtatattt..
+- fragment with adapters - complement strand
+  ....aaaggtgtctttcgtcaaacacttcttttaagtaatgcaaaccttaccagtctcgtccatataaaat
+---
+- fragment with adapters - primary strand
+  gatcttattt..
+- fragment with adapters - complement strand
+  ....aataaaat
+---
+- fragment with adapters - primary strand
+  gatctctgaaatataacgattctttatt..
+- fragment with adapters - complement strand
+  ....agactttatattgctaagaaataaat
+---
+- fragment with adapters - primary strand
+  gatcctgctcaagtaaat..
+- fragment with adapters - complement strand
+  ....gacgagttcatttaat
+---
+- fragment with adapters - primary strand
+  gatccaatagaagagattgctgatatttgtgaaagatacgatctttggctacacgttgatgtaaggagttttagaggactaaaaagagtcaaat..
+- fragment with adapters - complement strand
+  ....gttatcttctctaacgactataaacactttctatgctagaaaccgatgtgcaactacattcctcaaaatctcctgatttttctcagtttaat
+---
+- fragment with adapters - primary strand
+  gatcccattccaatatttcaaaaagatgatcctcacaattttatggatattgttacaattgagaaacttttgaatgctcgagttcattttggccataaggttttttattattttattt..
+- fragment with adapters - complement strand
+  ....ggtaaggttataaagtttttctactaggagtgttaaaatacctataacaatgttaactctttgaaaacttacgagctcaagtaaaaccggtattccaaaaaataataaaataaaat
+---
+- fragment with adapters - primary strand
+  gatccgcccatatcaacaacccacagtccaggctctaactttataatatttccaatctctaattctttcctttttgggctacaagttcagaacaattttttattttccaaaat..
+- fragment with adapters - complement strand
+  ....gcgggtatagttgttgggtgtcaggtccgagattgaaatattataaaggttagagattaagaaaggaaaaacccgatgttcaagtcttgttaaaaaataaaaggttttaat
+---
+- fragment with adapters - primary strand
+  gatcccacatggaactacacacacttttattggtggtctaatgagagatgcgagatatgcagctaatgatccgatattttt..
+- fragment with adapters - complement strand
+  ....ggtgtaccttgatgtgtgtgaaaataaccaccagattactctctacgctctatacgtcgattactaggctataaaaaat
+---
+- fragment with adapters - primary strand
+  gatcctaataaaccaagaattgatgaaattattccggtttgctttttttttttacttttt..
+- fragment with adapters - complement strand
+  ....gattatttggttcttaactactttaataaggccaaacgaaaaaaaaaaatgaaaaaat
+---
+- fragment with adapters - primary strand
+  gatccaaatattgggccctatgatgaat..
+- fragment with adapters - complement strand
+  ....gtttataacccgggatactacttaat
+---
+- fragment with adapters - primary strand
+  gatctggatttacaatcgaagacagcaaagaaattgatccaacttgtcatctaaattattggtatcctggacaggtttgatctttatttgatttgtatctaaattacgaccatggatttttgggttaggccagtccaaaatgttttctttcaaatttttagggttttttcgaatcaattttcattcccatttctattgggtgcatctttgtcatgttatttgccaagccctacaagctttggcaacaacaaaaacaacgtctatatggtgctcatactaatttggtaatttttctttat..
+- fragment with adapters - complement strand
+  ....acctaaatgttagcttctgtcgtttctttaactaggttgaacagtagatttaataaccataggacctgtccaaactagaaataaactaaacatagatttaatgctggtacctaaaaacccaatccggtcaggttttacaaaagaaagtttaaaaatcccaaaaaagcttagttaaaagtaagggtaaagataacccacgtagaaacagtacaataaacggttcgggatgttcgaaaccgttgttgtttttgttgcagatataccacgagtatgattaaaccattaaaaagaaataat
+---
+- fragment with adapters - primary strand
+  gatccaaattcgaaggcgaagcacttgtttccggtccaataacatttgtttt..
+- fragment with adapters - complement strand
+  ....gtttaagcttccgcttcgtgaacaaaggccaggttattgtaaacaaaaat
+---
+- fragment with adapters - primary strand
+  gatcttctagagttagcagagtt..
+- fragment with adapters - complement strand
+  ....aagatctcaatcgtctcaaat
+---
+- fragment with adapters - primary strand
+  gatcttttttgagtgtaaaacctctttctcccattatagtttttgcctatttgaggggcgttttctgcgccatattattccaagaatttatcaaactgttgttatgttacatatttggtgaataaataaataaattcaaaataaattccgagaaaat..
+- fragment with adapters - complement strand
+  ....aaaaaactcacattttggagaaagagggtaatatcaaaaacggataaactccccgcaaaagacgcggtataataaggttcttaaatagtttgacaacaatacaatgtataaaccacttatttatttatttaagttttatttaaggctcttttaat
+---
+- fragment with adapters - primary strand
+  gatctattataattgctgaagacgcatctaagacgaatgaagaatt..
+- fragment with adapters - complement strand
+  ....ataatattaacgacttctgcgtagattctgcttacttcttaaat
+---
+- fragment with adapters - primary strand
+  gatccagtgacttcagt..
+- fragment with adapters - complement strand
+  ....gtcactgaagtcaat
+---
+- fragment with adapters - primary strand
+  gatctattcaagtttcaattcctgaatttgaagaaaattatcgaatggaaagacaaggcaattttagatt..
+- fragment with adapters - complement strand
+  ....ataagttcaaagttaaggacttaaacttcttttaatagcttacctttctgttccgttaaaatctaaat
+---
+- fragment with adapters - primary strand
+  gatctctgtgacggaaagcctcattgcgttgatggctctgatgaaggtggaagatgttcacgaggtgaatattcagcgtcatgtt..
+- fragment with adapters - complement strand
+  ....agacactgcctttcggagtaacgcaactaccgagactacttccaccttctacaagtgctccacttataagtcgcagtacaaat
+---
+- fragment with adapters - primary strand
+  gatct..
+- fragment with adapters - complement strand
+  ....aat
+---
+- fragment with adapters - primary strand
+  gatccaaaatcaaataattt..
+- fragment with adapters - complement strand
+  ....gttttagtttattaaaat
+---
+- fragment with adapters - primary strand
+  gatccaaaacacatcaaaaaccaatttttcacactcaaataaatgaggcaacaaattcgtctaatgaatatccatataatcatttatataatcacaatagacgaaaatcgtcatatgcaggctggcaacaacaacaaccaccacaaccagcaccgtcaactcaattact..
+- fragment with adapters - complement strand
+  ....gttttgtgtagtttttggttaaaaagtgtgagtttatttactccgttgtttaagcagattacttataggtatattagtaaatatattagtgttatctgcttttagcagtatacgtccgaccgttgttgttgttggtggtgttggtcgtggcagttgagttaatgaat
+---
+- fragment with adapters - primary strand
+  gatctttacttgaatattctacggt..
+- fragment with adapters - complement strand
+  ....aaatgaacttataagatgccaat
+---
+- fragment with adapters - primary strand
+  gatctttgcgtgatttgtgccttttt..
+- fragment with adapters - complement strand
+  ....aaacgcactaaacacggaaaaaat
+---
+- fragment with adapters - primary strand
+  gatctggaaccggaggtagggcaagggaatcatcactggaaggcagcacttccacagcaagagaaagtccatctggtgtgagacgggctcagcaaaccagtcccacatccgcaatacgattgactacacttagtccaccagaatttagaaaacaaacggtgcctcaacaagaggtaaaaattgcgacaccgctcgcaaattcgagaataaaatcacccactccct..
+- fragment with adapters - complement strand
+  ....accttggcctccatcccgttcccttagtagtgaccttccgtcgtgaaggtgtcgttctctttcaggtagaccacactctgcccgagtcgtttggtcagggtgtaggcgttatgctaactgatgtgaatcaggtggtcttaaatcttttgtttgccacggagttgttctccatttttaacgctgtggcgagcgtttaagctcttattttagtgggtgagggaat
+---
+- fragment with adapters - primary strand
+  gatccacaaagcgaggtgct..
+- fragment with adapters - complement strand
+  ....gtgtttcgctccacgaat
+---
+- fragment with adapters - primary strand
+  gatccgctcaagaaaggttt..
+- fragment with adapters - complement strand
+  ....gcgagttctttccaaaat
+---
+- fragment with adapters - primary strand
+  gatctactaaaaatgtgagaactaagactaaatctactaaaaatgctcaagacgctaaagatgatgaatttataaaagaatggaacgaaaaaaagaatcaactat..
+- fragment with adapters - complement strand
+  ....atgatttttacactcttgattctgatttagatgatttttacgagttctgcgatttctactacttaaatattttcttaccttgctttttttcttagttgataat
+---
+- fragment with adapters - primary strand
+  gatctcttgt..
+- fragment with adapters - complement strand
+  ....agaacaat
+---
+- fragment with adapters - primary strand
+  gatcctttgcttactaatttgtttgtccacatgtttgtccacacctaatttgtccacatttgagcttt..
+- fragment with adapters - complement strand
+  ....gaaacgaatgattaaacaaacaggtgtacaaacaggtgtggattaaacaggtgtaaactcgaaaat
+---
+- fragment with adapters - primary strand
+  gatccctgcagcacttattttttctgttcatgtcggctcagttgttttcaaactcacattcatcataaatcattatgcaacact..
+- fragment with adapters - complement strand
+  ....ggacgtcgtgaataaaaaagacaagtacagccgagtcaacaaaagtttgagtgtaagtagtatttagtaatacgttgtgaat
+---
+- fragment with adapters - primary strand
+  gatctagtat..
+- fragment with adapters - complement strand
+  ....atcataat
+---
+- fragment with adapters - primary strand
+  gatccaaaacgtcgct..
+- fragment with adapters - complement strand
+  ....gttttgcagcgaat
+---
+- fragment with adapters - primary strand
+  gatctctcgggtggactcaatggacagaatgtagagcttccaataatcaaaggaatattggggttcaagctaggtaatttagaatatttt..
+- fragment with adapters - complement strand
+  ....agagcccacctgagttacctgtcttacatctcgaaggttattagtttccttataaccccaagttcgatccattaaatcttataaaaat
+---
+- fragment with adapters - primary strand
+  gatccgaatttcctaatctcctttcaataaatatttcatctcaaggaatttctatggacaaacagctcagatttgacttcacttccagttgtaatgggattttttgccttcctttactcagccatagtgt..
+- fragment with adapters - complement strand
+  ....gcttaaaggattagaggaaagttatttataaagtagagttccttaaagatacctgtttgtcgagtctaaactgaagtgaaggtcaacattaccctaaaaaacggaaggaaatgagtcggtatcacaat
+---
+- fragment with adapters - primary strand
+  gatccgtcttggcatccatggttt..
+- fragment with adapters - complement strand
+  ....gcagaaccgtaggtaccaaaat
+---
+- fragment with adapters - primary strand
+  gatccgcgttcctctaatccattttgatcatttaccggataatgggcataacaatgaagtaaaagaactgaaagaaaaggatataaaaccagaaactggacaactat..
+- fragment with adapters - complement strand
+  ....gcgcaaggagattaggtaaaactagtaaatggcctattacccgtattgttacttcattttcttgactttcttttcctatattttggtctttgacctgttgataat
+---
+- fragment with adapters - primary strand
+  gatctttgtcgcaaaaaaggcgttttcttccacactgacgcggctcaagctgctggtaagattcctttgaatgtggacgact..
+- fragment with adapters - complement strand
+  ....aaacagcgttttttccgcaaaagaaggtgtgactgcgccgagttcgacgaccattctaaggaaacttacacctgctgaat
+---
+- fragment with adapters - primary strand
+  gatccttggggaacaccacttggtgctggtaatatttttgagtatgtgtctttgatttttaccttataatttctattactgaggtaatcct..
+- fragment with adapters - complement strand
+  ....gaaccccttgtggtgaaccacgaccattataaaaactcatacacagaaactaaaaatggaatattaaagataatgactccattaggaat
+---
+- fragment with adapters - primary strand
+  gatcttctgataatgaaatggaagaagaaatggatgaagagaacgaaaaagagaataaaaataataataggatgtcaaaatataatgaatgggaagatgaaatgtttgacggaacttttgatgaggaaaatgaagatgaggcttatttctctgataattatgaaggacagactaatatgagaaacatgaatggaaataagagaattatgggtaggttgtcttgataacctaaaattt..
+- fragment with adapters - complement strand
+  ....aagactattactttaccttcttctttacctacttctcttgctttttctcttatttttattattatcctacagttttatattacttacccttctactttacaaactgccttgaaaactactccttttacttctactccgaataaagagactattaatacttcctgtctgattatactctttgtacttacctttattctcttaatacccatccaacagaactattggattttaaaat
+---
+- fragment with adapters - primary strand
+  gatctgcggtattttttgatttgt..
+- fragment with adapters - complement strand
+  ....acgccataaaaaactaaacaat
+---
+- fragment with adapters - primary strand
+  gatcccaggcaggcaaattttt..
+- fragment with adapters - complement strand
+  ....ggtccgtccgtttaaaaaat
+---
+- fragment with adapters - primary strand
+  gatctatatttgaaatttt..
+- fragment with adapters - complement strand
+  ....atataaactttaaaaat
+---
+- fragment with adapters - primary strand
+  gatccaatcgcggaattatttatgccggtcgaaaaccttgtgcatcaccagctactggtaataaattcatccatcaaaaggaacaggctgaaatgttagaagctattcttgtaaaaccggt..
+- fragment with adapters - complement strand
+  ....gttagcgccttaataaatacggccagcttttggaacacgtagtggtcgatgaccattatttaagtaggtagttttccttgtccgactttacaatcttcgataagaacattttggccaat
+---
+- fragment with adapters - primary strand
+  gatctcaaactttaccagatggccctgttcttctttcaccaacttctgtat..
+- fragment with adapters - complement strand
+  ....agtttgaaatggtctaccgggacaagaagaaagtggttgaagacataat
+---
+- fragment with adapters - primary strand
+  gatctaatttattcatttttataagcattgtgccgtgagcttactttgctt..
+- fragment with adapters - complement strand
+  ....attaaataagtaaaaatattcgtaacacggcactcgaatgaaacgaaat
+---
+- fragment with adapters - primary strand
+  gatctgtt..
+- fragment with adapters - complement strand
+  ....acaaat
+---
+- fragment with adapters - primary strand
+  gatccaacaatagcagaaatgt..
+- fragment with adapters - complement strand
+  ....gttgttatcgtctttacaat
+---
+- fragment with adapters - primary strand
+  gatccactataacaagttgaatcatgggagttggaacaactgaccttctatatgaaataacgatcccctttatgaaaaat..
+- fragment with adapters - complement strand
+  ....gtgatattgttcaacttagtaccctcaaccttgttgactggaagatatactttattgctaggggaaatactttttaat
+---
+- fragment with adapters - primary strand
+  gatccggcgggatagcttctgctagacgtgcccgtcaatt..
+- fragment with adapters - complement strand
+  ....gccgccctatcgaagacgatctgcacgggcagttaaat
+---
+- fragment with adapters - primary strand
+  gatctaattgtaagggtttttcttcttccacgcttttttgtttcctcttgcattgaaatttcgtcacttttttgacattttgacatgaacgaaaaaaaattttttcttcaaaattctagaaaattcttattgcattagtgggccgaacactttggcccaccataatcataaaataatttgattccaatcaagtt..
+- fragment with adapters - complement strand
+  ....attaacattcccaaaaagaagaaggtgcgaaaaaacaaaggagaacgtaactttaaagcagtgaaaaaactgtaaaactgtacttgcttttttttaaaaaagaagttttaagatcttttaagaataacgtaatcacccggcttgtgaaaccgggtggtattagtattttattaaactaaggttagttcaaat
+---
+- fragment with adapters - primary strand
+  gatctggcaggaattggacaagaaagagaaaatggaaatgaaaggt..
+- fragment with adapters - complement strand
+  ....accgtccttaacctgttctttctcttttacctttactttccaat
+---
+- fragment with adapters - primary strand
+  gatctttgcatggtagat..
+- fragment with adapters - complement strand
+  ....aaacgtaccatctaat
+---
+- fragment with adapters - primary strand
+  gatctctatgtagtcagatgggaaaaactttttcccatctagaaagtcctaaaaacctt..
+- fragment with adapters - complement strand
+  ....agatacatcagtctaccctttttgaaaaagggtagatctttcaggatttttggaaat
+---
+- fragment with adapters - primary strand
+  gatctcgatatgagcttgtagcccaaggatttgaaaatcttgtctcaatggatgttgattcagttgatgagatggtctatttgctcggtgct..
+- fragment with adapters - complement strand
+  ....agctatactcgaacatcgggttcctaaacttttagaacagagttacctacaactaagtcaactactctaccagataaacgagccacgaat
+---
+- fragment with adapters - primary strand
+  gatcccagggctcgtctggacttagattt..
+- fragment with adapters - complement strand
+  ....ggtcccgagcagacctgaatctaaaat
+---
+- fragment with adapters - primary strand
+  gatcccttattcaaataaaggaaagtgccgacctggagaaaataaataaagaat..
+- fragment with adapters - complement strand
+  ....ggaataagtttatttcctttcacggctggacctcttttatttatttcttaat
+---
+- fragment with adapters - primary strand
+  gatcctgttgtgtcatatcgtgaaacggtcactgaagaatctgatatgatgtgcctttcaaaatcaccaaacaaacacaaccgtctattctgcaaagcaaaaccaatggctgatggtcttcctgaagcaattgagcgtggagaagttactccaactgacgatccgaaaaatcgtgcacgaattctcgctgaaaaatatgaatttgatgcaactgatgctcgtaaaatttggtgctttggacctgaaggaactggagcaaatattttggttgatgtgacaaaaggagtgcaatacct..
+- fragment with adapters - complement strand
+  ....gacaacacagtatagcactttgccagtgacttcttagactatactacacggaaagttttagtggtttgtttgtgttggcagataagacgtttcgttttggttaccgactaccagaaggacttcgttaactcgcacctcttcaatgaggttgactgctaggctttttagcacgtgcttaagagcgactttttatacttaaactacgttgactacgagcattttaaaccacgaaacctggacttccttgacctcgtttataaaaccaactacactgttttcctcacgttatggaat
+---
+- fragment with adapters - primary strand
+  gatctggggtcttcctaattttttgtttcgcaatagtcaaccttatt..
+- fragment with adapters - complement strand
+  ....accccagaaggattaaaaaacaaagcgttatcagttggaataaat
+---
+- fragment with adapters - primary strand
+  gatctacacaggtttttttgagttttttagggatttggagtgatttaggggttttctgagaaaatgagagttgggtgggaagttttcaatgtcccaacccattcccagcggtgtcaagccctcaaaaacttctataaactttttagagtcatcctcacttgacttttttttcattttcctctttctgttttatcccccttcaggaaaattttt..
+- fragment with adapters - complement strand
+  ....atgtgtccaaaaaaactcaaaaaatccctaaacctcactaaatccccaaaagactcttttactctcaacccacccttcaaaagttacagggttgggtaagggtcgccacagttcgggagtttttgaagatatttgaaaaatctcagtaggagtgaactgaaaaaaaagtaaaaggagaaagacaaaatagggggaagtccttttaaaaaat
+---
+- fragment with adapters - primary strand
+  gatctagatgatattcaaaatttgtcgtgtaaacatgtattatt..
+- fragment with adapters - complement strand
+  ....atctactataagttttaaacagcacatttgtacataataaat
+---
+- fragment with adapters - primary strand
+  gatccaattatgtataaaccactcaaagaaatcgt..
+- fragment with adapters - complement strand
+  ....gttaatacatatttggtgagtttctttagcaat
+---
+- fragment with adapters - primary strand
+  gatctgaagctgagaaagggccaaaacaagaggtatgaaat..
+- fragment with adapters - complement strand
+  ....acttcgactctttcccggttttgttctccatactttaat
+---
+- fragment with adapters - primary strand
+  gatcccaataat..
+- fragment with adapters - complement strand
+  ....ggttattaat
+---
+- fragment with adapters - primary strand
+  gatcttctcctgt..
+- fragment with adapters - complement strand
+  ....aagaggacaat
+---
+- fragment with adapters - primary strand
+  gatccctttatgtccgtcccaaaattttggattttatccttccttgatataggaatcatgaatccctcttttatcattctgcctcttttttagttttatttcacttatcaaat..
+- fragment with adapters - complement strand
+  ....ggaaatacaggcagggttttaaaacctaaaataggaaggaactatatccttagtacttagggagaaaatagtaagacggagaaaaaatcaaaataaagtgaatagtttaat
+---
+- fragment with adapters - primary strand
+  gatctcagcaatggttcttggaaagatgaaggaaattgccgaagcctatttgggtcatgaagt..
+- fragment with adapters - complement strand
+  ....agtcgttaccaagaacctttctacttcctttaacggcttcggataaacccagtacttcaat
+---
+- fragment with adapters - primary strand
+  gatcttcatggctttcacttagtccagaccaaaaaatccagt..
+- fragment with adapters - complement strand
+  ....aagtaccgaaagtgaatcaggtctggttttttaggtcaat
+---
+- fragment with adapters - primary strand
+  gatctatagctgacggatttactataactggctaaagttagaaatatatt..
+- fragment with adapters - complement strand
+  ....atatcgactgcctaaatgatattgaccgatttcaatctttatataaat
+---
+- fragment with adapters - primary strand
+  gatccagggctttatttgcctccaagcaatacaccattatcgtaagtttttacaggtttttttagaaataaagt..
+- fragment with adapters - complement strand
+  ....gtcccgaaataaacggaggttcgttatgtggtaatagcattcaaaaatgtccaaaaaaatctttatttcaat
+---
+- fragment with adapters - primary strand
+  gatcccttctgtaatgaagaaatgttagccgttttgactcct..
+- fragment with adapters - complement strand
+  ....ggaagacattacttctttacaatcggcaaaactgaggaat
+---
+- fragment with adapters - primary strand
+  gatctattatagttgtccctatgactcat..
+- fragment with adapters - complement strand
+  ....ataatatcaacagggatactgagtaat
+---
+- fragment with adapters - primary strand
+  gatcttgaagaatttatagcagagccaaaccatgcacaaattcaacaagttggtgatcgttgcacagaacaagggatgaatgacgctgcacgtattctatt..
+- fragment with adapters - complement strand
+  ....aacttcttaaatatcgtctcggtttggtacgtgtttaagttgttcaaccactagcaacgtgtcttgttccctacttactgcgacgtgcataagataaat
+---
+- fragment with adapters - primary strand
+  gatcctttactacacgtttaccaaaatacacaggaaaagttggatgctttagt..
+- fragment with adapters - complement strand
+  ....gaaatgatgtgcaaatggttttatgtgtccttttcaacctacgaaatcaat
+---
+- fragment with adapters - primary strand
+  gatctctatttatcttttatatt..
+- fragment with adapters - complement strand
+  ....agataaatagaaaatataaat
+---
+- fragment with adapters - primary strand
+  gatccttggaaagatgtcagacatttacaaatcaatattcctgaaggagttttggcaaagaaaagtgaggagcctaagaagagaggagcagatgcaagtcaaaaagaagatgttgaggtaccaatcaagcgtggtttgcttgaatctatggcagaatgtattcttttatagtttctagaat..
+- fragment with adapters - complement strand
+  ....gaacctttctacagtctgtaaatgtttagttataaggacttcctcaaaaccgtttcttttcactcctcggattcttctctcctcgtctacgttcagtttttcttctacaactccatggttagttcgcaccaaacgaacttagataccgtcttacataagaaaatatcaaagatcttaat
+---
+- fragment with adapters - primary strand
+  gatccaaaaatatcgtaaaatatttttctttattt..
+- fragment with adapters - complement strand
+  ....gtttttatagcattttataaaaagaaataaaat
+---
+- fragment with adapters - primary strand
+  gatctcttttggactctcgatttagaaaagtattt..
+- fragment with adapters - complement strand
+  ....agaaaacctgagagctaaatcttttcataaaat
+---
+- fragment with adapters - primary strand
+  gatctttgggcataccatatcaactagagtcaactatgactaaatagaaaatataaatataaaggacgttctctcctatcagacctaacgaaattcataaactaagagtctatct..
+- fragment with adapters - complement strand
+  ....aaacccgtatggtatagttgatctcagttgatactgatttatcttttatatttatatttcctgcaagagaggatagtctggattgctttaagtatttgattctcagatagaat
+---
+- fragment with adapters - primary strand
+  gatcctttctgatgttttgactgatacaaattttgagccggcaaaattagaacaacaaaggaccgatgctctcaagcgtttggatgcttatgaagatgaaaatcgacaaggagttgttatggactagtaagactaaaatttatttt..
+- fragment with adapters - complement strand
+  ....gaaagactacaaaactgactatgtttaaaactcggccgttttaatcttgttgtttcctggctacgagagttcgcaaacctacgaatacttctacttttagctgttcctcaacaatacctgatcattctgattttaaataaaaat
+---
+- fragment with adapters - primary strand
+  gatcctcgtttagcttatgcccttctttttggaccaaatgtatcttacgtctacagacttcgaggacataaaacatgggacggagcacgtgatgcaattctcggagt..
+- fragment with adapters - complement strand
+  ....gagcaaatcgaatacgggaagaaaaacctggtttacatagaatgcagatgtctgaagctcctgtattttgtaccctgcctcgtgcactacgttaagagcctcaat
+---
+- fragment with adapters - primary strand
+  gatctaaacttggtcctttcaatcttcgtctttcgatttttcctt..
+- fragment with adapters - complement strand
+  ....atttgaaccaggaaagttagaagcagaaagctaaaaaggaaat
+---
+- fragment with adapters - primary strand
+  gatcccaggatgtt..
+- fragment with adapters - complement strand
+  ....ggtcctacaaat
+---
+- fragment with adapters - primary strand
+  gatccttcgcactccttatggagcttttggacgtagggtggctactgtacttctcaaaggtggataacttgatttacctagtaagagtgattt..
+- fragment with adapters - complement strand
+  ....gaagcgtgaggaatacctcgaaaacctgcatcccaccgatgacatgaagagtttccacctattgaactaaatggatcattctcactaaaat
+---
+- fragment with adapters - primary strand
+  gatctttgacttt..
+- fragment with adapters - complement strand
+  ....aaactgaaaat
+---
+- fragment with adapters - primary strand
+  gatctccctcaacctcaacagaactagaaaaagagccaatgtttctacaagaatatgaaaattaccaagaacttgagcctgaaagagaaataaaggaagacagctcaaatgatccagaagtttctgaaaatcccgaaaacgaagtagagaaggaaattgaagacatagcagatatttctgttttgtataataaagaaacgcttacatcagaaccaatagtaaataaatgtgatgatgatgagtcatt..
+- fragment with adapters - complement strand
+  ....agggagttggagttgtcttgatctttttctcggttacaaagatgttcttatacttttaatggttcttgaactcggactttctctttatttccttctgtcgagtttactaggtcttcaaagacttttagggcttttgcttcatctcttcctttaacttctgtatcgtctataaagacaaaacatattatttctttgcgaatgtagtcttggttatcatttatttacactactactactcagtaaat
+---
+- fragment with adapters - primary strand
+  gatcttt..
+- fragment with adapters - complement strand
+  ....aaaat
+---
+- fragment with adapters - primary strand
+  gatccatacaagccagagggccagattacactcaaaattgaaaagttcagtgagtttgctcatgaagggccagagagtcgtcgactgagcgaaccagtttatattcgtggattgccttggaaaattttggctataccaagagaaatgggtcgtcgtcctcaaatgggaggaggatcgatgcaaaaatgtcttggttactttctgcagtgcaatgctgagaattcaggttctgtctcttttattacttattttttactt..
+- fragment with adapters - complement strand
+  ....gtatgttcggtctcccggtctaatgtgagttttaacttttcaagtcactcaaacgagtacttcccggtctctcagcagctgactcgcttggtcaaatataagcacctaacggaaccttttaaaaccgatatggttctctttacccagcagcaggagtttaccctcctcctagctacgtttttacagaaccaatgaaagacgtcacgttacgactcttaagtccaagacagagaaaataatgaataaaaaatgaaat
+---
+- fragment with adapters - primary strand
+  gatccatatggcttgtggaaatagttcctccttcttagaaatagttcctcttgttatcctccttctttctgatttttcccttgtttattagttccaaaaaccctgtctgggtctattttcttcaatatatattagtagcacccagatatgtcgccatctctgtaaaagcgacatttcctcctatcgcttttagtcgctactaacggaagtcgaataaat..
+- fragment with adapters - complement strand
+  ....gtataccgaacacctttatcaaggaggaagaatctttatcaaggagaacaataggaggaagaaagactaaaaagggaacaaataatcaaggtttttgggacagacccagataaaagaagttatatataatcatcgtgggtctatacagcggtagagacattttcgctgtaaaggaggatagcgaaaatcagcgatgattgccttcagcttatttaat
+---
+- fragment with adapters - primary strand
+  gatccaatctttcggttctttgagcgtgaaataaatttgggctctcgattgct..
+- fragment with adapters - complement strand
+  ....gttagaaagccaagaaactcgcactttatttaaacccgagagctaacgaat
+---
+- fragment with adapters - primary strand
+  gatccattgaaaacagaaaggcatgatcaacaaataatatctagtaaattattattattttt..
+- fragment with adapters - complement strand
+  ....gtaacttttgtctttccgtactagttgtttattatagatcatttaataataataaaaaat
+---
+- fragment with adapters - primary strand
+  gatcttcgtccgagagaagaggaggaggtaaaaat..
+- fragment with adapters - complement strand
+  ....aagcaggctctcttctcctcctccatttttaat
+---
+- fragment with adapters - primary strand
+  gatcttgacttgcccgacgattatggatggaaacaagttcacggtttgattttttgaaattttcctttattttcttcttttgctgtagttcatt..
+- fragment with adapters - complement strand
+  ....aactgaacgggctgctaatacctacctttgttcaagtgccaaactaaaaaactttaaaaggaaataaaagaagaaaacgacatcaagtaaat
+---
+- fragment with adapters - primary strand
+  gatccacctctttatctaatatagtcagacatctccagtacgttcaagattgttct..
+- fragment with adapters - complement strand
+  ....gtggagaaatagattatatcagtctgtagaggtcatgcaagttctaacaagaat
+---
+- fragment with adapters - primary strand
+  gatccaaactattggttttggcggaatatatattatgatatggatcaagtataaaat..
+- fragment with adapters - complement strand
+  ....gtttgataaccaaaaccgccttatatataatactatacctagttcatattttaat
+---
+- fragment with adapters - primary strand
+  gatctaaaaaattt..
+- fragment with adapters - complement strand
+  ....attttttaaaat
+---
+- fragment with adapters - primary strand
+  gatccttt..
+- fragment with adapters - complement strand
+  ....gaaaat
+---
+- fragment with adapters - primary strand
+  gatcttttgattctacgggggcactttttagttcttttgtacacttt..
+- fragment with adapters - complement strand
+  ....aaaactaagatgcccccgtgaaaaatcaagaaaacatgtgaaaat
+---
+- fragment with adapters - primary strand
+  gatccgcccgt..
+- fragment with adapters - complement strand
+  ....gcgggcaat

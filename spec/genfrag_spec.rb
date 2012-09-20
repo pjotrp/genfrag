@@ -81,6 +81,15 @@ describe Genfrag do
       it 'should raise an error without any filename source' do
         lambda {@app.name_freq_lookup}.should raise_error
       end
+
+      it 'should pass the index regression test on test/data/test.fa' do
+        cmd = 'bundle exec ./bin/genfrag index -f test/data/test.fa --RE5 BstYI --RE3 MseI'
+        RegressionTest::CliExec::exec(cmd,"index.out").should be_true
+      end
+      it 'should pass the search regression test on test/data/test.fa' do
+        cmd = 'bundle exec ./bin/genfrag search -f test/data/test.fa --RE5 BstYI --RE3 MseI'
+        RegressionTest::CliExec::exec(cmd,"search.out").should be_true
+      end
     end
   end
   
