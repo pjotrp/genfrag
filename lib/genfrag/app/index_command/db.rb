@@ -58,7 +58,6 @@ class IndexCommand < Command
       @freq_lookup.puts %w(id Size Positions).join("\t")
     end
     
-    
     def write_entry_to_fasta(normalized_fasta_id, seq, definitions)
       self.send("write_entry_to_fasta_#{sc}", normalized_fasta_id, seq, definitions)
     end
@@ -83,7 +82,6 @@ class IndexCommand < Command
     def write_entry_to_freq_csv(i, size, str)
       @freq_lookup.puts [i,size,str].join("\t")
     end
-    
     
     def close
       self.send("close_#{sc}")

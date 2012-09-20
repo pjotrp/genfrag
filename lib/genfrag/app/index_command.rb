@@ -122,7 +122,7 @@ END
     end
 
     i=0
-    @sizes.each do |size,info|
+    @sizes.sort.each do |size,info|  # key, value
       i+=1
       db.write_entry_to_freq(i, size, info.map {|x| x.join(' ')}.join(', ') )
     end
