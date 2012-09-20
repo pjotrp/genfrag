@@ -31,7 +31,7 @@ class SearchCommand < Command
     else
         run(options, processed_fasta_file, processed_freq_lookup, processed_adapters, true)
     end
-   end
+  end
 
   def opt_parser
     std_opts = standard_options

@@ -1,8 +1,8 @@
-if ENV['BIORUBY_HOME']
-  $: << File.join(ENV['BIORUBY_HOME'],'lib')
-else
+# if ENV['BIORUBY_HOME']
+#   $: << File.join(ENV['BIORUBY_HOME'],'lib')
+# else
   require 'rubygems'
-end
+# end
 
 require 'fileutils'
 require 'optparse'
